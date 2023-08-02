@@ -90,5 +90,27 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+---
+title: "Foo Bar Identity"
+excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+header:
+  image: /assets/images/foo-bar-identity.jpg
+  teaser: /assets/images/foo-bar-identity-th.jpg
+sidebar:
+  - title: "Role"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
+gallery:
+  - url: /images/twitter.jpeg
+    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+  - url: /images/bio-photo-2.jpg
+    image_path: images/bio-photo-2.jpg
+    alt: "placeholder image 2"
+  - url: /images/butterfly1.png
+    image_path: images/butterfly1.png
+    alt: "placeholder image 3"
 
