@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CHANGING THINGS5 / Site Title"
+title                    : "Draw-A-Bird-A-Day Challenge"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
