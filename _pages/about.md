@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <a href="https://www.audubon.org/field-guide/bird/eastern-phoebe">
-  <img src="https://www.birdnote.org/sites/default/files/storage/eastern_phoebe-for-web-and-fb-joanne-kamo.jpg" alt="August 2 = Eastern Phoebe"</a>
+  <img src="https://www.birdnote.org/sites/default/files/storage/eastern_phoebe-for-web-and-fb-joanne-kamo.jpg" alt="August 2 = Eastern Phoebe"></a>
   
-One of our most familiar eastern flycatchers, the Eastern Phoebe’s raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.  WHAT HAPPENS IF WE PUT AN IMAGE HERE?  
+One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://www.audubon.org/field-guide/bird/eastern-phoebe) raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.  WHAT HAPPENS IF WE PUT AN IMAGE HERE?  
 
 You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
 
