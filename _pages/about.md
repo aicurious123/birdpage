@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
- <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
+ <a href="https://www.audubon.org/field-guide/bird/eastern-phoebe">
   <img src="https://cdn.firespring.com/images/9cd18c88-b671-4946-8710-fd3b46adf5bd.jpg" alt="August 2 = Eastern Phoebe"  class="w3-image w3-padding-20 w3-center" width="400" height="400"></a>
   
 Insert Audubon blub here. One of our most familiar eastern flycatchers, the Eastern Phoebe’s raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.  WHAT HAPPENS IF WE PUT AN IMAGE HERE?  
