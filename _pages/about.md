@@ -15,7 +15,7 @@ One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://w
 
 Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
-Quote of the day: "A bird does not sing because it has an answer, it sings because it has a song.” —Maya Angelou
+Quote of the day: *"A bird does not sing because it has an answer, it sings because it has a song.”* — Maya Angelou
 
 
 The Rules
@@ -32,5 +32,6 @@ About
 ======
 This challenge was inspired at a watercolor class Claire and I attended last week. The instructor and her sister took up watercolors as a way to stay connected and creative during the COVID lockdown. Both nature lovers, they would take turns choosing a different bird each day to draw and share, which turned out to be a great way to stay connected to each other and also to their creative selves. Further exploration led to finding the artist [Neiko Ng](http://www.neikoart.com/blog/what-am-i-up-to) who did a similar bird-a-day personal challenge with the motto, ["A bird a day keeps depression away"](https://www.bravethewoods.com/blog/draw-a-bird-a-day-depression-goes-away#:~:text=Back%20in%20September%2C%20illustrator%20Neiko,when%20the%20art%20was%20finished) and the content creator [Struthless](https://struthless.com/pages/home) who says [drawing an ibis everyday](https://www.youtube.com/watch?v=M6NsEDwHHiE) changed his life.
 
-(https://img.freepik.com/free-vector/set-bird-species-engraved-sketches-illustration_74855-16242.jpg)
-
+<a href="https://www.audubon.org/field-guide/bird/eastern-phoebe">
+  <img src="https://img.freepik.com/free-vector/set-bird-species-engraved-sketches-illustration_74855-16242.jpg" style="width:100%>
+    </a>
