@@ -14,17 +14,17 @@ redirect_from:
 
 August 1: Scarlet Tanager
 ======
-![Ryan](https://aicurious123.github.io/birdpage/images/twitter.jpeg?raw=true)
-![Ilena](https://aicurious123.github.io/birdpage/images/butterfly1.png?raw=true)
+![IH](https://aicurious123.github.io/birdpage/images/8-1-I-H.jpeg?raw=true)
 
 
-  - url: /images/twitter.jpeg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /images/bio-photo-2.jpg
-    image_path: images/bio-photo-2.jpg
-    alt: "placeholder image 2"
-  - url: /images/butterfly1.png
-    image_path: images/butterfly1.png
-    alt: "placeholder image 3"
+![JY](https://aicurious123.github.io/birdpage/images/8-1-J-Y.jpeg?raw=true)
+
+
+![RP](https://aicurious123.github.io/birdpage/images/8-1-R-P.jpg?raw=true)
+
+
+![CP](https://aicurious123.github.io/birdpage/images/8-1-C.P.jpg?raw=true)
+
+
+![JH](https://aicurious123.github.io/birdpage/images/8-1-J-H.jpeg?raw=true)
 
