@@ -16,12 +16,13 @@ One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://w
 Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
 
+
 The Rules
 ======
 1. LOOK for your daily group text which will include the Bird of the Day (sourced from this birdwatcher's list). A link to The Audubon Society's info page will be posted here.
 1. DRAW the bird. Any form, medium and interpretation is acceptable.
-1. HELP? A link to a random daily drawing tutorial will be posted simply because I need drawing help and inspiration. No need to use it. Found a cool resource? Please send it my way to share it here!
 1. TEXT ME (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each night. Better than receiving multiple bird texts a day, and a fun way to see everyone's different styles together!
+1. HELP? A link to a random daily drawing tutorial will be posted simply because I need drawing help and inspiration. No need to use it. Found a cool resource? Please send it my way to share it here!
 1. CONSISTENCY is key! It is more important than technique, perfection, and maybe even improvement.
 1. FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for this group!
 
