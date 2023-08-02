@@ -90,8 +90,8 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-[Ryan](https://aicurious123.github.io/birdpage/images/twitter.jpeg?raw=true)
-[Show](https://aicurious123.github.io/birdpage/images/twitter.jpeg?raw=true)
+![Ryan](https://aicurious123.github.io/birdpage/images/twitter.jpeg?raw=true)
+![Show](https://aicurious123.github.io/birdpage/images/butterfly1.png?raw=true)
 
   - url: /images/twitter.jpeg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
