@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Insert Audubon blub here. Start changing things here and who knows what happens? YIKES! of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. WHAT HAPPENS IF WE PUT AN IMAGE HERE? You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
+Insert Audubon blub here. Start changing things here and who knows what happens? YIKES! of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. WHAT HAPPENS IF WE PUT AN IMAGE HERE?  
+
+ <a href="https://www.audubon.org/field-guide/bird/scarlet-tanager">
+  <img src="https://images.squarespace-cdn.com/content/v1/5c0dc82225bf0243064f21a9/1589222795180-45FBNIPR9B9VR82VTYA2/Audubon%2BWebinar%2BRegistration%2BBanner%2BMay%2B2020_bluejay-drawing-jpg.jpg?format=750w" alt="August 1 = Scarlet Tanager"  class="w3-image w3-padding-20" width="400" height="400"></a>
+  You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). 
 
 A data-driven personal website
 ======
