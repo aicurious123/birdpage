@@ -29,10 +29,10 @@ August 1: Scarlet Tanager
 ![JH](https://aicurious123.github.io/birdpage/images/8-1-J-H.jpeg?raw=true)
 
 
-![CP](https://aicurious123.github.io/birdpage/images/8-1-C-P.jpg?raw=true)
-
-
 ![CW](https://aicurious123.github.io/birdpage/images/8-1-C-W.jpeg?raw=true)
+
+
+![CP](https://aicurious123.github.io/birdpage/images/8-1-C-P.jpg?raw=true)
 
 
 ![SW](https://aicurious123.github.io/birdpage/images/8-1-S-W.jpg?raw=true)
