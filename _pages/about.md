@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Eastern Phoebe SIBLEY"
+title: "Today's bird: Eastern Phoebe"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
