@@ -20,12 +20,12 @@ Quote of the day: *"A bird does not sing because it has an answer, it sings beca
 
 The Rules
 ======
-1. LOOK for your daily group text which will include the Bird of the Day (sourced from this birdwatcher's list). A link to The Audubon Society's info page will be posted here.
+1. LOOK for your daily group text which will include the Bird of the Day (sourced from [this birdwatcher's list](https://www.morgantingley.com/botd/)). The photo above will link to the Audubon Society's corresponding info page.
 1. DRAW the bird. Any form, medium and interpretation is acceptable.
-1. TEXT me (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each night. More manageable than receiving multiple bird texts a day, and a fun way to see everyone's different styles together!
+1. TEXT me (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each night. More manageable than receiving multiple bird texts a day, and a fun way to see everyone's different styles grouped together!
 1. HELP? A link to a random daily drawing tutorial will be posted simply because I need drawing help and inspiration. No need to use it. Found a cool resource? Please send it my way to share it here!
 1. CONSISTENCY is key! It is more important than technique, perfection, and maybe even improvement.
-1. FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for this group!
+1. FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for yourself and the group!
 
 
 About
