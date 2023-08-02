@@ -12,7 +12,7 @@ main:
   - title: "The Birds" # Portfolio
     url: /portfolio/
         
-  - title: "" # Blog Posts
+  - title: "Resources" # Blog Posts
     url: /year-archive/
     
   - title: "" # CV
