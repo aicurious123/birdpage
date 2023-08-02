@@ -54,13 +54,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
 
 August 1: Scarlet Tanager
 ======
 * Currently signed in to 43 different slack teams
+* (https://github.com/aicurious123/birdpage/blob/master/images/bio-photo-2.jpg)
 
 One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://www.audubon.org/field-guide/bird/eastern-phoebe) raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, 
 
