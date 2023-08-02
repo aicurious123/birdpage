@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "* Draw-A-Bird-A-Day Challenge *"
+title                    : "* Bird-A-Day 30 Day Challenge *"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
