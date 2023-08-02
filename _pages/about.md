@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Eastern Phoebe FIXED"
+title: "Today's bird: Eastern Phoebe SIBLEY"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,17 +13,17 @@ redirect_from:
   
 One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://www.audubon.org/field-guide/bird/eastern-phoebe) raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.  
 
-You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, [stuartgeiger.com](http://stuartgeiger.com), which uses blah.
+Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
 
 The Rules
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. LOOK for your daily group text which will include the Bird of the Day (sourced from this birdwatcher's list). A link to The Audubon Society's info page will be posted here.
+1. DRAW the bird. Any form, medium and interpretation is acceptable.
+1. HELP? A link to a random daily drawing tutorial will be posted simply because I need drawing help and inspiration. No need to use it. Found a cool resource? Please send it my way to share it here!
+1. TEXT ME (not the group) a photo of your bird creation by 11:59pm PT and I'll upload all photos here each night. Better than receiving multiple bird texts a day, and a fun way to see everyone's different styles together!
+1. CONSISTENCY is key! It is more important than technique, perfection, and maybe even improvement.
+1. FLEX your creativity muscle and challenge yourself to find a few (or more!) minutes every day to show up for this group!
 
 Site-wide configuration
 ------
