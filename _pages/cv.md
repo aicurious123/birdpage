@@ -90,8 +90,8 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-[Ryan](images/twitter.jpeg) 
-[Ilena](images/bio-photo-2.jpg) 
+[images/twitter.jpeg](https://aicurious123.github.io/birdpage/cv/images/twitter.jpeg?raw=true)
+[images/bio-photo-2.jpg](https://aicurious123.github.io/birdpage/cv/images/twitter.jpeg?raw=true)
 
   - url: /images/twitter.jpeg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
