@@ -15,6 +15,8 @@ One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://w
 
 Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
+Quote of the day: "A bird does not sing because it has an answer, it sings because it has a song.” —Maya Angelou
+
 
 The Rules
 ======
