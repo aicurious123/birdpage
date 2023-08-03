@@ -84,7 +84,7 @@ author:
   avatar           : "GlaucouswingedGull.jpeg"
   bio              : "Known hybridizer"
   location         : "Winters in Baja"
-  employer         : "Audubon Society"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            :
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/Glaucous-winged_gull"
+  wikipedia        : [Glaucous-winged Gull](https://en.wikipedia.org/wiki/Glaucous-winged_gull)
 
 
 # Reading Files
