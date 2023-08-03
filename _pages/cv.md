@@ -10,7 +10,23 @@ redirect_from:
 {% include base_path %}
  
 
+August 2: Scarlet Eastern Phoebe
+======
+![IH](https://aicurious123.github.io/birdpage/images/8-2-I-H.jpeg?raw=true)
 
+![JY](https://aicurious123.github.io/birdpage/images/8-2-J-Y.jpeg?raw=true)
+
+![E](https://aicurious123.github.io/birdpage/images/8-2-E.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-2-C-W.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-2-R.P.jpg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-2-C.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-2-C-P.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-2-CP.jpg?raw=true)
 
 August 1: Scarlet Tanager
 ======
@@ -33,6 +49,9 @@ August 1: Scarlet Tanager
 
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-1-C-P.jpg?raw=true)
+
+
+![C](https://aicurious123.github.io/birdpage/images/8-1-C.jpg?raw=true)
 
 
 ![SW](https://aicurious123.github.io/birdpage/images/8-1-S-W.jpg?raw=true)
