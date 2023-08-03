@@ -50,4 +50,4 @@ August 1: Scarlet Tanager
 
 ![C](https://aicurious123.github.io/birdpage/images/8-1-C.jpg?raw=true)
 
-![JSH](https://aicurious123.github.io/birdpage/images/8-1-JSH.jpg?raw=true)
+![JSH](https://aicurious123.github.io/birdpage/images/8-1-JSH.jpeg?raw=true)
