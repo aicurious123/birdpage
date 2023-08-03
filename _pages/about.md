@@ -13,7 +13,7 @@ redirect_from:
 
 The [Glaucous-winged Gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull) is a large, pale gull of Pacific shorelines. It’s relatively easy to pick out from other gulls—most species have black wingtips, but adult Glaucous-winged Gulls have pearly gray wingtips that match the color of the rest of the back and upperwing. It takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. These familiar birds of the Pacific Northwest coastlines forage on fish, tidepool inhabitants, and other foods along rocky shorelines, scavenge at landfills, and follow fishing vessels offshore. They prefer salt or brackish waters and as such are rarely found far inland. 
 
-Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
+Drawing resource: [Paul Hopkinson's Beginner’s Guide to Drawing Birds](https://devonartist.co.uk/beginners-guide-to-drawing-birds/)
 
 Quote of the day: *“Birds chirping around you is a beautiful realization that life is incredibly good. Let this sound be a gentle break in your routine.”* ― Hiral Nagda
 
