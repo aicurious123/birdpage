@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Eastern Phoebe"
+title: "Today's bird: Glaucous-winged Gull"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/eastern-phoebe">
-  <img src="https://www.birdnote.org/sites/default/files/storage/eastern_phoebe-for-web-and-fb-joanne-kamo.jpg" alt="August 2 = Eastern Phoebe"></a>
-  
-One of our most familiar eastern flycatchers, the [Eastern Phoebe’s](https://www.audubon.org/field-guide/bird/eastern-phoebe) raspy “phoebe” call is a frequent sound around yards and farms in spring and summer. These brown-and-white songbirds sit upright and wag their tails from prominent, low perches. They typically place their mud-and-grass nests in protected nooks on bridges, barns, and houses, which adds to the species’ familiarity to humans. Hardy birds, Eastern Phoebes winter farther north than most other flycatchers and are one of the earliest returning migrants in spring.  
+<a href="[https://www.audubon.org/field-guide/bird/eastern-phoebe](https://www.audubon.org/field-guide/bird/glaucous-winged-gull)">
+  <img src="https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg" alt="August 3 = Glaucous-winged Gull"></a>
+
+The [Glaucous-winged Gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull) is a large, pale gull of Pacific shorelines. It’s relatively easy to pick out from other gulls—most species have black wingtips, but adult Glaucous-winged Gulls have pearly gray wingtips that match the color of the rest of the back and upperwing. It takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. These familiar birds of the Pacific Northwest coastlines forage on fish, tidepool inhabitants, and other foods along rocky shorelines, scavenge at landfills, and follow fishing vessels offshore. They prefer salt or brackish waters and as such are rarely found far inland. 
 
 Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
