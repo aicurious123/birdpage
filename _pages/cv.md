@@ -28,7 +28,7 @@ August 2: Eastern Phoebe
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-2-CP.jpeg?raw=true)
 
-
+![JH](https://aicurious123.github.io/birdpage/images/8-2-J-H.jpeg?raw=true)
 
 August 1: Scarlet Tanager
 ======
