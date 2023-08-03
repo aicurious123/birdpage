@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "NOT Twitter"
+  name             : "Gus the Gull"
   avatar           : "GlaucouswingedGull.jpeg"
-  bio              : "Please ignore the icons below. I can't decide if I want to delete them or not..."
-  location         : "" # fill text location later if desired
+  bio              : 
+  location         : 
   employer         :
-  pubmed           : "" # add https website if desired
-  googlescholar    : "" # add https website if desired
+  pubmed           : 
+  googlescholar    : 
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/audubonsociety?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
