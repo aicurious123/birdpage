@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "NOT Twitter"
-  avatar           : "twitter.jpeg" 
+  avatar           : <img src="https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg" alt="August 3 = Glaucous-winged Gull"></a> 
   bio              : "Please ignore the icons below. I can't decide if I want to delete them or not..."
   location         : "" # fill text location later if desired
   employer         :
