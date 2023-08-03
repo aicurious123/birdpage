@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="[https://www.audubon.org/field-guide/bird/eastern-phoebe](https://www.audubon.org/field-guide/bird/glaucous-winged-gull)">
+<a href="[https://www.audubon.org/field-guide/bird/glaucous-winged-gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull)">
   <img src="https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg" alt="August 3 = Glaucous-winged Gull"></a>
 
 The [Glaucous-winged Gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull) is a large, pale gull of Pacific shorelines. It’s relatively easy to pick out from other gulls—most species have black wingtips, but adult Glaucous-winged Gulls have pearly gray wingtips that match the color of the rest of the back and upperwing. It takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. These familiar birds of the Pacific Northwest coastlines forage on fish, tidepool inhabitants, and other foods along rocky shorelines, scavenge at landfills, and follow fishing vessels offshore. They prefer salt or brackish waters and as such are rarely found far inland. 
 
 Drawing resource: [Learn to Draw Birds with David Sibley](https://www.audubon.org/magazine/summer-2020/learn-draw-birds-david-sibley)
 
-Quote of the day: *"A bird does not sing because it has an answer, it sings because it has a song.”* — Maya Angelou
+Quote of the day: *“Birds chirping around you is a beautiful realization that life is incredibly good. Let this sound be a gentle break in your routine.”* ― Hiral Nagda
+
 
 
 The Rules
