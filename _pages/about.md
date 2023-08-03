@@ -17,7 +17,7 @@ Drawing resource: [Paul Hopkinson's Beginner’s Guide to Drawing Birds](https:/
 
 Quote of the day: *“Birds chirping around you is a beautiful realization that life is incredibly good. Let this sound be a gentle break in your routine.”* ― Hiral Nagda
 
-
+**Note:** Apologies for yesterday's technical difficulties with the daily text. This website will be updated and texts will be sent by 9amCT each day. Thanks for your patience. Your creativity and talent is so inspiring!
 
 The Rules
 ======
