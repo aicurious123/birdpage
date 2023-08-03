@@ -83,7 +83,7 @@ author:
   name             : "Gus the Gull"
   avatar           : "GlaucouswingedGull.jpeg"
   bio              : "Poor table manners"
-  location         : 
+  location         : "Pacific Northwest, but winters in Baja"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://en.wikipedia.org/wiki/Glaucous-winged_gull"
 
 
 # Reading Files
