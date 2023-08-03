@@ -22,7 +22,7 @@ August 2: Eastern Phoebe
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-2-R-P.jpg?raw=true)
 
-![C](https://aicurious123.github.io/birdpage/images/8-2-C.jpeg?raw=true)
+![C](https://aicurious123.github.io/birdpage/images/8-2-C.jpg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-2-C-P.jpg?raw=true)
 
