@@ -17,6 +17,7 @@ Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada]
 
 Quote of the day: *"Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly."* — Langston Hughes
 
+**Note:** If you included a name with your gull, I included it in with the drawing. 
 
 The Rules
 ======
