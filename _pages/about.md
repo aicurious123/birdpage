@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Glaucous-winged Gull"
+title: "Today's bird: Lesser Yellowlegs"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
