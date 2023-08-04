@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="[https://www.audubon.org/field-guide/bird/glaucous-winged-gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull)">
-  <img src="https://www.allaboutbirds.org/guide/assets/photo/303388951-480px.jpg" alt="August 3 = Glaucous-winged Gull"></a>
+<a href="[https://www.audubon.org/field-guide/bird/lesser-yellowlegs](https://www.audubon.org/field-guide/bird/lesser-yellowlegs)">
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/301797021/1800" alt="August 4"= LesserYellowLegs"></a>
 
-The [Glaucous-winged Gull](https://www.audubon.org/field-guide/bird/glaucous-winged-gull) is a large, pale gull of Pacific shorelines. It’s relatively easy to pick out from other gulls—most species have black wingtips, but adult Glaucous-winged Gulls have pearly gray wingtips that match the color of the rest of the back and upperwing. It takes four years for immatures to progress from mostly brown to fully white and gray adult plumage; intermediate plumages are often mottled and messy. These familiar birds of the Pacific Northwest coastlines forage on fish, tidepool inhabitants, and other foods along rocky shorelines, scavenge at landfills, and follow fishing vessels offshore. They prefer salt or brackish waters and as such are rarely found far inland. 
+The [Lesser Yellowlegs](https://www.audubon.org/field-guide/bird/lesser-yellowlegs) is a dainty and alert "marshpiper" that occurs in shallow, weedy wetlands and flooded fields across North America during migration. It breeds in the meadows and open woodlands of boreal Canada. Like many other shorebirds, the Lesser Yellowlegs rebounded from hunting in the early 20th century but has declined again from losses of wetland habitats. Lesser Yellowlegs are known for their steadfast defense of their eggs and chicks. Biologist William Rowan once noted, “they will be perched there as though the safety of the entire universe depended on the amount of noise they made.”
 
-Drawing resource: [Paul Hopkinson's Beginner’s Guide to Drawing Birds](https://devonartist.co.uk/beginners-guide-to-drawing-birds/)
+Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada](https://cecilieo.com/how-to-draw-and-watercolor-a-realistic-bird/)
 
-Quote of the day: *“Birds chirping around you is a beautiful realization that life is incredibly good. Let this sound be a gentle break in your routine.”* ― Hiral Nagda
+Quote of the day: *"Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly."* — Langston Hughes
 
-**Note:** Apologies for yesterday's technical difficulties with the daily text. This website will be updated and texts will be sent by 9amCT each day. Thanks for your patience. Your creativity and talent is so inspiring!
 
 The Rules
 ======
