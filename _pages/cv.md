@@ -34,7 +34,7 @@ August 3: Glaucous-winged Gull
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-3-J-H.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-3-CP.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/8-3-CP.jpeg?raw=true)
 <br>
 **Gus the Gull**
 <br><br>
