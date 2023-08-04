@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-August 3: Glaucous-winged Gull
+August 3: Lesser Yellowlegs
 ======
 ![IH](https://aicurious123.github.io/birdpage/images/8-2-I-H.jpeg?raw=true)
 
