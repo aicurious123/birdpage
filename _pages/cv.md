@@ -9,18 +9,21 @@ redirect_from:
 
 {% include base_path %}
  
-August 3: Lesser Yellowlegs
+August 3: Glaucous-winged Gull
 ======
 ![CW](https://aicurious123.github.io/birdpage/images/8-3-C-W.jpeg?raw=true)
-
+**Griffin**
+<br><br>
 ![E](https://aicurious123.github.io/birdpage/images/8-3-E.jpeg?raw=true)
 
 ![IH](https://aicurious123.github.io/birdpage/images/8-3-I-H.jpeg?raw=true)
-
+**Larry**
+<br><br>
 ![JY](https://aicurious123.github.io/birdpage/images/8-3-J-Y.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-3-C-P.jpg?raw=true)
-
+**Steven Seagaal**
+<br><br>
 ![RP](https://aicurious123.github.io/birdpage/images/8-3-R-P.jpg?raw=true)
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-3-J-H.jpeg?raw=true)
