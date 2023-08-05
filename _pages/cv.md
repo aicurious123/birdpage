@@ -8,6 +8,26 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+
+August 4: Lesser Yellowlegs
+======
+![E](https://aicurious123.github.io/birdpage/images/8-4-E.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-4-C-P.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-4-J-Y.jpeg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-4-C.jpg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-4-C-W.jpeg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-4-I-H.jpeg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-4-J-H.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-4-CP.jpeg?raw=true)
+
  
 August 3: Glaucous-winged Gull
 ======
