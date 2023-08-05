@@ -11,7 +11,7 @@ redirect_from:
 <a href="https://www.audubon.org/field-guide/bird/lesser-yellowlegs">
   <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/301797021/1800"></a>
 
-The [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is a daXXX
+The [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is ---------
 
 Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada](https://cecilieo.com/how-to-draw-and-watercolor-a-realistic-bird/)
 
