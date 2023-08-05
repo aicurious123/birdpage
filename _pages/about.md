@@ -13,7 +13,7 @@ redirect_from:
 
 At a tad over three inches long, the feisty [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is a tiny warrior, readily attacking birds many times its size, as well as anything else it perceives as a threat to its territory including large insects and chipmucks. It makes one of the longest migratory journeys of any bird in the world, as measured by body size: a clockwise circuit up the Pacific Coast in late winter and spring, reaching Washington and British Columbia by May, then heading south again in July down the chain of the Rocky Mountains.It has an excellent memory for location, no doubt helping it find flowers from day to day, or even year to year. Some birds have been seen returning from migration and investigating where a feeder had been the previous year, even though it had since been moved. The wingbeat frequency of Rufous Hummingbirds has been recorded at 52–62 wingbeats per second.
 
-Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada](https://cecilieo.com/how-to-draw-and-watercolor-a-realistic-bird/)
+Drawing resource: [How to Draw a Hummingbird 13 Different Ways by Cool Kids Crafts](https://coolkidscrafts.com/how-to-draw-a-hummingbird/)
 
 Quote of the day: *"It is not only fine feathers that make fine birds"* — Aesop
 
