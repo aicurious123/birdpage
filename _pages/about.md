@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/lesser-yellowlegs">
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/301797021/1800"></a>
+<a href="https://www.audubon.org/field-guide/bird/rufous-hummingbird">
+  <img src="https://s3.us-east-2.amazonaws.com/journeynorth.org/images/graphics/humm/1487467006dorper_malefemale.jpg"></a>
 
-The [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is ---------
+At a tad over three inches long, the feisty [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is a tiny warrior, readily attacking birds many times its size, as well as anything else it perceives as a threat to its territory including large insects and chipmucks. It makes one of the longest migratory journeys of any bird in the world, as measured by body size: a clockwise circuit up the Pacific Coast in late winter and spring, reaching Washington and British Columbia by May, then heading south again in July down the chain of the Rocky Mountains.
 
 Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada](https://cecilieo.com/how-to-draw-and-watercolor-a-realistic-bird/)
 
