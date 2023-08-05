@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Lesser Yellowlegs"
+title: "Today's bird: Rufous Hummingbird"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,13 +11,12 @@ redirect_from:
 <a href="https://www.audubon.org/field-guide/bird/lesser-yellowlegs">
   <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/301797021/1800"></a>
 
-The [Lesser Yellowlegs](https://www.audubon.org/field-guide/bird/lesser-yellowlegs) is a dainty and alert "marshpiper" that occurs in shallow, weedy wetlands and flooded fields across North America during migration. It breeds in the meadows and open woodlands of boreal Canada. Like many other shorebirds, the Lesser Yellowlegs rebounded from hunting in the early 20th century but has declined again from losses of wetland habitats. Lesser Yellowlegs are known for their steadfast defense of their eggs and chicks. Biologist William Rowan once noted, “they will be perched there as though the safety of the entire universe depended on the amount of noise they made.”
+The [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is a daXXX
 
 Drawing resource: [How to Draw and Watercolor a Realistic Bird by Cecilie Okada](https://cecilieo.com/how-to-draw-and-watercolor-a-realistic-bird/)
 
-Quote of the day: *"Hold fast to dreams, for if dreams die, life is a broken-winged bird that cannot fly."* — Langston Hughes
+Quote of the day: *"It is not only fine feathers that make fine birds"* — Aesop
 
-**Note:** So much personality with this flock! If you included a name with your gull, I included it in with your drawing. 
 
 The Rules
 ======
