@@ -15,7 +15,7 @@ At a tad over three inches long, the feisty [Rufous Hummingbird](https://www.aud
 
 Drawing resource: [How to Draw a Hummingbird 13 Different Ways by Cool Kids Crafts](https://coolkidscrafts.com/how-to-draw-a-hummingbird/)
 
-Quote of the day: *"It is not only fine feathers that make fine birds"* — Aesop
+Quote of the day: *"It is not only fine feathers that make fine birds."* — Aesop
 
 
 The Rules
