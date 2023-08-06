@@ -18,6 +18,14 @@ Drawing resource: [How to Draw Birds Flying](https://www.youtube.com/watch?app=d
 Quote of the day: *“The biggest favor you can do to yourself is fly freely like birds.”* – Kuldeep Gera
 
 
+<a href="https://abcbirds.org/bird/keel-billed-toucan/"> 
+  <img src="https://i0.wp.com/allaboutbirds.info/wp-content/uploads/2014/03/Keel-billed-Toucan-Ramphastos-sulfuratus.jpg"></a>
+
+WILD CARD BIRD: Keel-billed Toucan
+======
+The [Keel-billed Toucan](https://abcbirds.org/bird/keel-billed-toucan/) are unmistakably distinguished with their huge, rainbow-colored bills. Often seen in pairs, but not usually in groups like aracaris. Flies with a few flaps followed by a swooping glide, sometimes high over the forest canopy, and looks like a ‘flying banana.’ Heard more often than seen: ‘song’ is a far-carrying, frog-like croak, repeated steadily. Despite its large size and bright colors, can be difficult to see in leafy canopy, where it moves deliberately in search of food.
+
+
 The Rules
 ======
 1. LOOK for your daily group text which will include the Bird of the Day (sourced from [this birdwatcher's list](https://www.morgantingley.com/botd/)). The photo above will link to the Audubon Society's corresponding info page.
