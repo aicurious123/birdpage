@@ -15,7 +15,7 @@ Small, sleek, bluish-black with silver-grey throats, [Chimney Swift](https://www
 
 Drawing resource: [How to Draw a Hummingbird 13 Different Ways by Cool Kids Crafts](https://coolkidscrafts.com/how-to-draw-a-hummingbird/)
 
-Quote of the day: *"It is not only fine feathers that make fine birds."* — Aesop
+Quote of the day: *"“The biggest favor you can do to yourself is fly freely like birds.”* – Kuldeep Gera
 
 
 The Rules
