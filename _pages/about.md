@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <a href="https://www.audubon.org/field-guide/bird/chimney-swift"> 
-  <img src="https://blueridgecountry.com/downloads/10083/download/51371104906_37b82ee309_o.jpg?cb=1d8c6723594f1daf5b643ef7a2d80398&w=900&h="></a>
+  <img src="https://images.squarespace-cdn.com/content/v1/578ff19b9f7456c15b63f7e7/31bf9f45-4aa8-4831-a21c-2d21fca40392/aab+chimney+swift.jpg?format=1500w"></a>
 
 Small, sleek, bluish-black with silver-grey throats, [Chimney Swift](https://www.audubon.org/field-guide/bird/chimney-swift) have been called "flying cigars" and "bows and arrows." As captivating as their flight is to watch, their clandestine terrestrial behavior is even more remarkable. Unable to perch or stand upright as songbirds do, their long claws are suited only for clinging to the walls of vertical surfaces. Although they will occasionally roost in the open, they prefer the safety of an enclosed area such as a chimney, air shaft or abandoned building. It is in these inaccessible locations that they not only roost but build their nests, raise their families and congregate prior to migration. The lives of these widespread urban adapted birds are surprisingly unstudied due to their inaccessible nesting and roosting sites and their aerial lifestyle.
 
