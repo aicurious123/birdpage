@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+August 5: Rufous Hummingbird
+======
+![JY](https://aicurious123.github.io/birdpage/images/8-5-J-Y.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-5-C-P.jpg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-5-C-W.jpeg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-5-I-H.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-5-CP.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-5-R-P.jpg?raw=true)
+
+
 
 August 4: Lesser Yellowlegs
 ======
@@ -27,6 +42,8 @@ August 4: Lesser Yellowlegs
 ![JH](https://aicurious123.github.io/birdpage/images/8-4-J-H.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-4-CP.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-4-R-P.jpg?raw=true)
 
  
 August 3: Glaucous-winged Gull
