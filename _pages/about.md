@@ -13,7 +13,7 @@ redirect_from:
 
 Small, sleek, bluish-black with silver-grey throats, [Chimney Swift](https://www.audubon.org/field-guide/bird/chimney-swift) have been called "flying cigars" and "bows and arrows." Their stiff, flickering movements alternate with long, graceful sweeps of flight as they scour the skies for flying insects. As captivating as their flight is to watch, their clandestine terrestrial behavior is even more remarkable. Unable to perch or stand upright as songbirds do, their long claws are suited only for clinging to the walls of vertical surfaces. Although they will occasionally roost in the open, Chimney Swifts prefer the safety of an enclosed area such as a chimney, air shaft or abandoned building. It is in these inaccessible locations that they not only roost but build their nests, raise their families and congregate prior to migration. The lives of these widespread urban adapted birds are surprisingly unstudied due to their inaccessible nesting and roosting sites and their aerial lifestyle.
 
-Drawing resource: [How to Draw a Hummingbird 13 Different Ways by Cool Kids Crafts](https://coolkidscrafts.com/how-to-draw-a-hummingbird/)
+Drawing resource: [How to Draw Birds Flying](https://www.youtube.com/watch?app=desktop&v=VmIepYOFoB4) by LethalChris Drawing
 
 Quote of the day: *"“The biggest favor you can do to yourself is fly freely like birds.”* – Kuldeep Gera
 
