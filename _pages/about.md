@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Rufous Hummingbird"
+title: "Today's bird: Chimney Swift"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/rufous-hummingbird">
-  <img src="https://s3.us-east-2.amazonaws.com/journeynorth.org/images/graphics/humm/1487467006dorper_malefemale.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/chimney-swift">
+  <img src="https://blueridgecountry.com/downloads/10083/download/51371104906_37b82ee309_o.jpg?cb=1d8c6723594f1daf5b643ef7a2d80398&w=900&h="></a>
 
-At a tad over three inches long, the feisty [Rufous Hummingbird](https://www.audubon.org/field-guide/bird/rufous-hummingbird) is a tiny warrior, readily attacking birds many times its size as well as anything else it perceives as a threat to its territory including large insects and chipmucks. It makes one of the longest migratory journeys of any bird in the world, as measured by body size: a clockwise circuit up the Pacific Coast in late winter and spring, reaching Washington and British Columbia by May, then heading south again in July down the chain of the Rocky Mountains. It has an excellent memory for location helping it find flowers from day to day, and even year to year. The wingbeat frequency of Rufous Hummingbirds has been recorded at 52–62 wingbeats per second.
+Small, sleek, bluish-black with silver-grey throats, [Chimney Swift](https://www.audubon.org/field-guide/bird/chimney-swift) have been called "flying cigars" and "bows and arrows." Their stiff, flickering movements alternate with long, graceful sweeps of flight as they scour the skies for flying insects. As captivating as their flight is to watch, their clandestine terrestrial behavior is even more remarkable. Unable to perch or stand upright as songbirds do, Chimney Swifts are uniquely equipped to roost clinging to vertical surfaces. Their small but strong feet are tipped with four forward-facing claws which act as grappling hooks to hold them firmly to their roost. Although they will occasionally roost in the open, Chimney Swifts prefer the safety of an enclosed area such as a chimney, air shaft or abandoned building. It is in these inaccessible locations that they not only roost but build their nests, raise their families and congregate prior to migration.
 
 Drawing resource: [How to Draw a Hummingbird 13 Different Ways by Cool Kids Crafts](https://coolkidscrafts.com/how-to-draw-a-hummingbird/)
 
