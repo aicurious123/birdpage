@@ -15,8 +15,7 @@ redirect_from:
 
 Drawing resource: [How to Draw Birds Flying](https://www.youtube.com/watch?app=desktop&v=VmIepYOFoB4) by LethalChris Drawing
 
-Quote of the day: *“The biggest favor you can do to yourself is fly freely like birds.”* – Kuldeep Gera
-
+Quote of the day: *“You must have the bird in your heart before you can find it in the bush.”* – John Burroughs
 
 <a href="https://abcbirds.org/bird/keel-billed-toucan/"> 
   <img src="https://i0.wp.com/allaboutbirds.info/wp-content/uploads/2014/03/Keel-billed-Toucan-Ramphastos-sulfuratus.jpg"></a>
