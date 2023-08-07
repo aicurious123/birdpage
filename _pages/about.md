@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <a href="https://www.audubon.org/field-guide/bird/eastern-towhee"> 
-  <img src="https://images.squarespace-cdn.com/content/v1/578ff19b9f7456c15b63f7e7/31bf9f45-4aa8-4831-a21c-2d21fca40392/aab+chimney+swift.jpg?format=1500w"></a>
+  <img src="https://www.allaboutbirds.org/guide/assets/og/75346731-1200px.jpg"></a>
 
 [Eastern Towhees](https://www.audubon.org/field-guide/bird/eastern-towhee) are birds of the undergrowth, prefering a lot of ground cover where they can search for food and their rummaging makes far more noise than you would expect for their size. They sing with a musical "drink-your-teaeeee." The "tea" part of the song is a rolling trill. They tend to be pretty solitary, and they use a number of threat displays to tell other towhees they’re not welcome. You may see contentious males lift, spread, or droop one or both wings, fan their tails, or flick their tails to show off the white spots at the corners. Eastern towhees live year-round in the Southeast and Midwest, and also migrate to the Northeast and the Great Lakes region in the summer. Hybridizes with Spotted Towhee in central U.S. and south-central Canada. 
 
