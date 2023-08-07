@@ -9,6 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
+August 6: Chimney Swift or Keel-billed Toucan
+======
+![CW](https://aicurious123.github.io/birdpage/images/8-6-C-W.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-6-C-P.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-6-J-Y.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-6-R-P.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-6-I-H.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-6-CP.jpeg?raw=true)
+
+
+
+
 August 5: Rufous Hummingbird
 ======
 ![JY](https://aicurious123.github.io/birdpage/images/8-5-J-Y.jpeg?raw=true)
