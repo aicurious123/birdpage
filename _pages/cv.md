@@ -11,7 +11,7 @@ redirect_from:
 
 August 6: Chimney Swift or Keel-billed Toucan
 ======
-![CW](https://aicurious123.github.io/birdpage/images/8-6-C-W.jpeg?raw=true)
+![CW](https://aicurious123.github.io/birdpage/images/8-6-C-W.jpg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-6-C-P.jpg?raw=true)
 
