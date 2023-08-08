@@ -24,7 +24,7 @@ August 7: Eastern Towhee or Keel-billed Toucan
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-7-R-P.jpg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-7-CP.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/8-7-CP.jpeg?raw=true)
 
 
 August 6: Chimney Swift or Keel-billed Toucan
