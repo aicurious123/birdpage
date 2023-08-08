@@ -12,11 +12,11 @@ redirect_from:
   https://www.audubon.org/field-guide/bird/yellow-bellied-sapsucker"> 
   <img src="https://abcbirds.org/wp-content/uploads/2022/10/BOTW-Homepage-Thumbnail_Yellow-bellied-Sapsucker.jpg"></a>
 
-[Yellow-bellied Sapsucker](https://www.audubon.org/field-guide/bird/yellow-bellied-sapsucker) are birds of the undergrowth, prefering a lot of ground cover where they can search for food and their rummaging makes far more noise than you would expect for their size. They sing with a musical "drink-your-teaeeee." The "tea" part of the song is a rolling trill. They tend to be pretty solitary, and they use a number of threat displays to tell other towhees they’re not welcome. You may see contentious males lift, spread, or droop one or both wings, fan their tails, or flick their tails to show off the white spots at the corners. Eastern towhees live year-round in the Southeast and Midwest, and also migrate to the Northeast and the Great Lakes region in the summer. Hybridizes with Spotted Towhee in central U.S. and south-central Canada. 
+The horizontal lines of feeding holes in tree trunks made by the [Yellow-bellied Sapsucker](https://www.audubon.org/field-guide/bird/yellow-bellied-sapsucker) are likely more familiar to people than the woodpecker itself. Despite its name, the yellowish tint on its underside is usually subtle, and certainly not what first catches the eye. More often, what stands out are the vertical white stripe along this woodpecker's folded wing and its black-and-white face. Both male and female have bright red foreheads, but males also have red throats. They have been found drilling sapwells in more than 1,000 species of trees and woody plants, though they have a strong preference for birches and maples. Only found in eastern North America, it is the only woodpecker in eastern North America that is completely migratory; males typically winter in the southern United States, while most females travel to the West Indies, Mexico, and Central America.
 
 Drawing resource: [How To Draw A Realistic Bird Like A Pro](https://artltdmag.com/draw-a-realistic-bird/) by ArltLtdMag
 
-Quote of the day: *“You must have the bird in your heart before you can find it in the bush.”* – John Burroughs
+Quote of the day: *“I don’t ask for the meaning of the song of a bird or the rising of the sun on a misty morning. There they are, and they are beautiful.”* – Pete Hamill
 
 <a href="https://abcbirds.org/bird/keel-billed-toucan/"> 
   <img src="https://i0.wp.com/allaboutbirds.info/wp-content/uploads/2014/03/Keel-billed-Toucan-Ramphastos-sulfuratus.jpg"></a>
