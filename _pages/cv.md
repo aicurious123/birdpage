@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 7: Eastern Towhee or Keel-billed Toucan
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-7-C.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-7-J-Y.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-7-C-W.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-7-C-P.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-7-I-H.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-7-R-P.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-7-CP.jpg?raw=true)
+
+
 August 6: Chimney Swift or Keel-billed Toucan
 ======
 ![CW](https://aicurious123.github.io/birdpage/images/8-6-C-W.jpg?raw=true)
@@ -22,7 +40,6 @@ August 6: Chimney Swift or Keel-billed Toucan
 ![IH](https://aicurious123.github.io/birdpage/images/8-6-I-H.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-6-CP.jpeg?raw=true)
-
 
 
 
