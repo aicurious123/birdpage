@@ -14,7 +14,7 @@ redirect_from:
 
 The horizontal lines of feeding holes in tree trunks made by the [Yellow-bellied Sapsucker](https://www.audubon.org/field-guide/bird/yellow-bellied-sapsucker) are likely more familiar to people than the woodpecker itself. Despite its name, the yellowish tint on its underside is usually subtle, and certainly not what first catches the eye. More often, what stands out are the vertical white stripe along this woodpecker's folded wing and its black-and-white face. Both male and female have bright red foreheads, but males also have red throats. They have been found drilling sapwells in more than 1,000 species of trees and woody plants, though they have a strong preference for birches and maples. Only found in eastern North America, it is the only woodpecker in eastern North America that is completely migratory; males typically winter in the southern United States, while most females travel to the West Indies, Mexico, and Central America.
 
-Drawing resource: [How To Draw A Realistic Bird Like A Pro](https://artltdmag.com/draw-a-realistic-bird/) by ArltLtdMag
+Drawing resource: [How To Draw A Woodpecker](https://helloartsy.com/how-to-draw-a-woodpecker/) by HelloArtsy
 
 Quote of the day: *“I don’t ask for the meaning of the song of a bird or the rising of the sun on a misty morning. There they are, and they are beautiful.”* – Pete Hamill
 
