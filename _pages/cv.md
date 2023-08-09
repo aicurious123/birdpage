@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 8: Yellow-bellied Sapsucker
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-8-CP.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-8-JH.jpeg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-8-J-Y.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-8-CW.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-8-C-P.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-8-RP.jpg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-8-C.jpg?raw=true)
+
+
 August 7: Eastern Towhee or Keel-billed Toucan
 ======
 
