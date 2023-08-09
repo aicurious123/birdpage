@@ -10,7 +10,7 @@ redirect_from:
 
 <a href="
   https://www.audubon.org/field-guide/bird/botteris-sparrow"> 
-  <img src="https://www.birdphotography.com/species/photos/bosp-4.jpg"></a>
+  <img src="https://www.allaboutbirds.org/guide/noindex/photo/39394701-480px.jpg"></a>
 
 A rather secretive species of desert grasslands and coastal prairie, the [Botteri’s Sparrow](https://www.audubon.org/field-guide/bird/botteris-sparrow) is subtly plumaged in brown, rust, and tan, which helps it blend with its arid environment. A ground nester which forages exclusively on the ground for insects in summer, weed seeds in winter, Botteri’s is almost literally never seen unless singing. Difficult to identify visually and best found and identified by its “bouncing ball” song. Primarily a Mexican species with two populations, both of which barely enter the U.S.; western birds brighter than eastern birds. 
 
