@@ -14,9 +14,10 @@ redirect_from:
 
 A rather secretive species of desert grasslands and coastal prairie, the [Botteri’s Sparrow](https://www.audubon.org/field-guide/bird/botteris-sparrow) is subtly plumaged in brown, rust, and tan, which helps it blend with its arid environment. A ground nester which forages exclusively on the ground for insects in summer, weed seeds in winter, Botteri’s is almost literally never seen unless singing. Difficult to identify visually and best found and identified by its “bouncing ball” song. Primarily a Mexican species with two populations, both of which barely enter the U.S.; western birds brighter than eastern birds. 
 
-Drawing resource: [How To Draw A Woodpecker](https://helloartsy.com/how-to-draw-a-woodpecker/) by HelloArtsy
+Drawing resource: [Watercolor Sketch - How to Paint a Bird](https://thevirtualinstructor.com/watercolor-bird.html) by Matt Fussell
 
 Quote of the day: *“Intelligence without ambition is a bird without wings.”* – Salvador Dali 
+
 
 <a href="https://abcbirds.org/bird/keel-billed-toucan/"> 
   <img src="https://i0.wp.com/allaboutbirds.info/wp-content/uploads/2014/03/Keel-billed-Toucan-Ramphastos-sulfuratus.jpg"></a>
