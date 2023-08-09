@@ -16,7 +16,7 @@ August 8: Yellow-bellied Sapsucker
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-8-JH.jpeg?raw=true)
 
-![JY](https://aicurious123.github.io/birdpage/images/8-8-J-Y.jpeg?raw=true)
+![JY](https://aicurious123.github.io/birdpage/images/8-8-JY.jpeg?raw=true)
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-8-CW.jpeg?raw=true)
 
