@@ -16,7 +16,7 @@ A rather secretive species of desert grasslands and coastal prairie, the [Botter
 
 Drawing resource: [How To Draw A Woodpecker](https://helloartsy.com/how-to-draw-a-woodpecker/) by HelloArtsy
 
-Quote of the day: *“I don’t ask for the meaning of the song of a bird or the rising of the sun on a misty morning. There they are, and they are beautiful.”* – Pete Hamill
+Quote of the day: *“Intelligence without ambition is a bird without wings.”* – Salvador Dali 
 
 <a href="https://abcbirds.org/bird/keel-billed-toucan/"> 
   <img src="https://i0.wp.com/allaboutbirds.info/wp-content/uploads/2014/03/Keel-billed-Toucan-Ramphastos-sulfuratus.jpg"></a>
