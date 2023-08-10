@@ -18,7 +18,7 @@ August 9: Botteri's Sparrow
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-9-RP.jpg?raw=true)
 
-![IH](https://aicurious123.github.io/birdpage/images/8-9-IH.jpg?raw=true)
+![IH](https://aicurious123.github.io/birdpage/images/8-9-IH.jpeg?raw=true)
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-9-CW.jpeg?raw=true)
 
