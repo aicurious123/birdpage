@@ -10,7 +10,7 @@ redirect_from:
 
 <a href="
   https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan"> 
-  <img src="https://nhpbs.org/wild/images/whitetailedptarmiganAlfredViolaforestry.jpg"></a>
+  <img src="https://2.bp.blogspot.com/-dKNcSUmSpSM/UKu_HgOkPsI/AAAAAAAACLI/pV_DQA9jitA/s1600/White_tailed_Ptarmigan2+copy.jpg"></a>
 
 The smallest of the grouse family, [White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) snow-white in winter and twig-brown in summer. They’re famous for being virtually invisible when they stand still against the windswept rocks, low shrubs, and snowbanks of their high-mountain habitat. They nest above timberline in the alpine tundra of western mountains, and are the only birds in North America that spend their entire life cycle in these very high elevations. Their feathered feet and dense plumage enable them to walk on top of snow and even roost inside snowbanks. Leads a very sedentary lifestyle in winter.
 
