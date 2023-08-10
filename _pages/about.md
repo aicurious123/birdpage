@@ -16,7 +16,7 @@ redirect_from:
 
 Drawing resource: [Watercolor Sketch - How to Paint a Bird](https://thevirtualinstructor.com/watercolor-bird.html) by Matt Fussell
 
-Quote of the day: *“Intelligence without ambition is a bird without wings.”* – Salvador Dali 
+Quote of the day: *“I think we consider too much the good luck of the early bird and not enough the bad luck of the early worm.”* – Franklin D. Roosevelt 
 
 
 
