@@ -12,7 +12,7 @@ redirect_from:
   https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan"> 
   <img src="https://nhpbs.org/wild/images/whitetailedptarmiganAlfredViolaforestry.jpg"></a>
 
-[White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) are small, tubby grouse, snow-white in winter and twig-brown in summer. They’re famous for being virtually invisible when they stand still against the windswept rocks, low shrubs, and snowbanks of their high-mountain habitat. They nest above timberline in the alpine tundra of western mountains, and are the only birds in North America that spend their entire life cycle in these very high elevations. Their feathered feet and dense plumage enable them to walk on top of snow and even roost inside snowbanks.
+The smallest of the grouse family, [White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) snow-white in winter and twig-brown in summer. They’re famous for being virtually invisible when they stand still against the windswept rocks, low shrubs, and snowbanks of their high-mountain habitat. They nest above timberline in the alpine tundra of western mountains, and are the only birds in North America that spend their entire life cycle in these very high elevations. Their feathered feet and dense plumage enable them to walk on top of snow and even roost inside snowbanks. Leads a very sedentary lifestyle in winter.
 
 Drawing resource: [How to Draw a Realistic Bird in Colored Pencil Step-by-Step](https://shelleyhannafineart.com/how-to-draw-a-realistic-bird-in-colored-pencil/) by Shelley Hanna Fine Art
 
