@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 9: Botteri's Sparrow
+======
+
+![E](https://aicurious123.github.io/birdpage/images/8-9-E.jpeg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-9-JY.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-9-RP.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-9-IH.jpg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-9-CW.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-9-CP.jpg?raw=true)
+
+
 August 8: Yellow-bellied Sapsucker
 ======
 
