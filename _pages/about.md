@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Botteri's Sparrow"
+title: "Today's bird: White-tailed Ptarmigan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/botteris-sparrow"> 
-  <img src="https://images.squarespace-cdn.com/content/v1/52d1975de4b0a0bfc16518c3/1534994231439-JIXUD0TGE780LGDYDDDH/L+4767.jpg"></a>
+  https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan"> 
+  <img src="https://nhpbs.org/wild/images/whitetailedptarmiganAlfredViolaforestry.jpg"></a>
 
-A rather secretive species of desert grasslands and coastal prairie, the [Botteri’s Sparrow](https://www.audubon.org/field-guide/bird/botteris-sparrow) is subtly plumaged in brown, rust, and tan, which helps it blend with its arid environment. A ground nester which forages exclusively on the ground for insects in summer, weed seeds in winter, Botteri’s is almost literally never seen unless singing. Difficult to identify visually and best found and identified by its “bouncing ball” song. Primarily a Mexican species with two populations, both of which barely enter the U.S.; western birds brighter than eastern birds. 
+A rather secretive species of desert grasslands and coastal prairie, the [White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) is subtly plumaged in brown, rust, and tan, which helps it blend with its arid environment. A ground nester which forages exclusively on the ground for insects in summer, weed seeds in winter, Botteri’s is almost literally never seen unless singing. Difficult to identify visually and best found and identified by its “bouncing ball” song. Primarily a Mexican species with two populations, both of which barely enter the U.S.; western birds brighter than eastern birds. 
 
 Drawing resource: [Watercolor Sketch - How to Paint a Bird](https://thevirtualinstructor.com/watercolor-bird.html) by Matt Fussell
 
