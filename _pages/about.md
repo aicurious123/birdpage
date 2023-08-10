@@ -12,7 +12,7 @@ redirect_from:
   https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan"> 
   <img src="https://nhpbs.org/wild/images/whitetailedptarmiganAlfredViolaforestry.jpg"></a>
 
-A rather secretive species of desert grasslands and coastal prairie, the [White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) is subtly plumaged in brown, rust, and tan, which helps it blend with its arid environment. A ground nester which forages exclusively on the ground for insects in summer, weed seeds in winter, Botteri’s is almost literally never seen unless singing. Difficult to identify visually and best found and identified by its “bouncing ball” song. Primarily a Mexican species with two populations, both of which barely enter the U.S.; western birds brighter than eastern birds. 
+[White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) are small, tubby grouse, snow-white in winter and twig-brown in summer. They’re famous for being virtually invisible when they stand still against the windswept rocks, low shrubs, and snowbanks of their high-mountain habitat. They nest above timberline in the alpine tundra of western mountains, and are the only birds in North America that spend their entire life cycle in these very high elevations. Their feathered feet and dense plumage enable them to walk on top of snow and even roost inside snowbanks.
 
 Drawing resource: [Watercolor Sketch - How to Paint a Bird](https://thevirtualinstructor.com/watercolor-bird.html) by Matt Fussell
 
