@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 10: White-tailed Ptarmigan
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-11-CP.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-11-JY.jpeg?raw=true)
+
+![E](https://aicurious123.github.io/birdpage/images/8-11-E.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-11-CW.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-11-C-P.jpg?raw=true)
+
+
 August 9: Botteri's Sparrow
 ======
 
