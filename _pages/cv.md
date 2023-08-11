@@ -20,7 +20,7 @@ August 10: White-tailed Ptarmigan
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-11-CW.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-11-C-P.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/8-11-C-P.jpeg?raw=true)
 
 
 August 9: Botteri's Sparrow
