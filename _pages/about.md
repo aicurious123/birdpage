@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: White-tailed Ptarmigan"
+title: "Today's bird: American Redstart"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan"> 
-  <img src="https://2.bp.blogspot.com/-dKNcSUmSpSM/UKu_HgOkPsI/AAAAAAAACLI/pV_DQA9jitA/s1600/White_tailed_Ptarmigan2+copy.jpg"></a>
+  https://www.audubon.org/field-guide/bird/american-redstart"> 
+  <img src="https://birdwatchinghq.com/wp-content/uploads/2021/12/american-redstart.jpg"></a>
 
-The smallest of the grouse family, [White-tailed Ptarmigan](https://www.audubon.org/field-guide/bird/white-tailed-ptarmigan) are snow-white in winter and twig-brown in summer. They’re famous for being virtually invisible when they stand still against the windswept rocks, low shrubs, and snowbanks of their high-mountain habitat. They nest above timberline in the alpine tundra of western mountains, and are the only birds in North America that spend their entire life cycle in these very high elevations. Their feathered feet and dense plumage enable them to walk on top of snow and even roost inside snowbanks. Leads a very sedentary lifestyle in winter.
+The [American Restart](https://www.audubon.org/field-guide/bird/american-redstart) is one of North America's most recognizable wood-warblers, named for the adult male's glossy black plumage set off by vivid reddish-orange patches on its sides, wings, and tail. Females and young birds, often called "yellowstarts" by birders, are olive-brown above, with lemon-yellow patches on the sides, wings, and tail. These sweet-singing warblers nest in open woodlands across much of North America, often near water. Parent redstarts will divide the work, with each parent caring for half of the chicks. Fairly extensive winter range throughout most of Middle America, the Caribbean, and northern South America.
 
-Drawing resource: [How to Draw a Realistic Bird in Colored Pencil Step-by-Step](https://shelleyhannafineart.com/how-to-draw-a-realistic-bird-in-colored-pencil/) by Shelley Hanna Fine Art
+ 
 
-Quote of the day: *“I think we consider too much the good luck of the early bird and not enough the bad luck of the early worm.”* – Franklin D. Roosevelt 
+Drawing resource: [How to Draw a Realistic Bird Portrait in Pencil](https://design.tutsplus.com/tutorials/how-to-draw-a-realistic-bird-portrait-in-pencil--cms-24107) from Envato Tuts+
+
+Quote of the day: *“Some birds are not meant to be caged, that’s all. Their feathers are too bright, their songs too sweet and wild.”* – Stephen King
 
 
 
