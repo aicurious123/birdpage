@@ -12,7 +12,7 @@ redirect_from:
   https://www.audubon.org/field-guide/bird/american-redstart"> 
   <img src="https://birdwatchinghq.com/wp-content/uploads/2021/12/american-redstart.jpg"></a>
 
-The [American Restart](https://www.audubon.org/field-guide/bird/american-redstart) is one of North America's most recognizable wood-warblers, named for the adult male's glossy black plumage set off by vivid reddish-orange patches on its sides, wings, and tail. Females and young birds, often called "yellowstarts" by birders, are olive-brown above, with lemon-yellow patches on the sides, wings, and tail. These sweet-singing warblers nest in open woodlands across much of North America, often near water. Parent redstarts will divide the work, with each parent caring for half of the chicks. Fairly extensive winter range throughout most of Middle America, the Caribbean, and northern South America.
+The [American Redstart](https://www.audubon.org/field-guide/bird/american-redstart) is one of North America's most recognizable wood-warblers, named for the adult male's glossy black plumage set off by vivid reddish-orange patches on its sides, wings, and tail. Females and young birds, often called "yellowstarts" by birders, are olive-brown above, with lemon-yellow patches on the sides, wings, and tail. These sweet-singing warblers nest in open woodlands across much of North America, often near water. Parent redstarts will divide the work, with each parent caring for half of the chicks. Fairly extensive winter range throughout most of Middle America, the Caribbean, and northern South America.
 
  
 
