@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: American Redstart"
+title: "Today's bird: Baird's Sandpiper"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/american-redstart"> 
-  <img src="https://birdwatchinghq.com/wp-content/uploads/2021/12/american-redstart.jpg"></a>
+  https://www.audubon.org/field-guide/bird/bairds-sandpiper"> 
+  <img src="https://wildcolumbiacounty.files.wordpress.com/2020/07/bairds-sandpiper-1.jpg"></a>
 
-The [American Redstart](https://www.audubon.org/field-guide/bird/american-redstart) is one of North America's most recognizable wood-warblers, named for the adult male's glossy black plumage set off by vivid reddish-orange patches on its sides, wings, and tail. Females and young birds, often called "yellowstarts" by birders, are olive-brown above, with lemon-yellow patches on the sides, wings, and tail. These sweet-singing warblers nest in open woodlands across much of North America, often near water. Parent redstarts will divide the work, with each parent caring for half of the chicks. Fairly extensive winter range throughout most of Middle America, the Caribbean, and northern South America.
+[Baird's Sandpiper’s](https://www.audubon.org/field-guide/bird/bairds-sandpiper) long, tapering wings, an adaptation for its very long migrations, make it perhaps the most elegant of the “peeps,” the small sandpipers in the genus Calidris. Their delicate buff and brown tones are warmer than the grayish brown of many other sandpipers, lending a softness to their plumage that makes them among the most recognizable species of the group. Baird’s Sandpipers are often nicknamed “grasspipers” because of their tendency to forage in drier, more vegetated habitats than many shorebirds. The migration of the Baird's Sandpiper takes it from the arctic to the tip of South America—and the birds do it in record time.
 
  
 
