@@ -16,10 +16,9 @@ redirect_from:
 
  
 
-Drawing resource: [How to Draw a Realistic Bird Portrait in Pencil](https://design.tutsplus.com/tutorials/how-to-draw-a-realistic-bird-portrait-in-pencil--cms-24107) from Envato Tuts+
+Drawing resource: [How to Make a Comic About Birds](https://www.audubon.org/magazine/summer-2020/how-make-comic-about-birds) By Rosemary Mosco, Contributor, Audubon magazine
 
-Quote of the day: *“Some birds are not meant to be caged, that’s all. Their feathers are too bright, their songs too sweet and wild.”* – Stephen King
-
+Quote of the day: *“In order to see birds it is necessary to become a part of the silence.”* – Robert Lynd
 
 
 The Rules
