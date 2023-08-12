@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 11: American Redstart
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-10-CP.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-10-JY.jpeg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-10-C.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-10-IH.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-10-C-P.jpg?raw=true)
+
+
 August 10: White-tailed Ptarmigan
 ======
 
