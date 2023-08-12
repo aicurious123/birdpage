@@ -22,6 +22,8 @@ August 11: American Redstart
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-10-C-P.jpeg?raw=true)
 
+![JH](https://aicurious123.github.io/birdpage/images/8-10-JH.jpeg?raw=true)
+
 
 August 10: White-tailed Ptarmigan
 ======
