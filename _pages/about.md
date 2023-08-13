@@ -18,6 +18,13 @@ Drawing resource: [How to Make a Comic About Birds](https://www.audubon.org/maga
 
 Quote of the day: *“The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.”* – Eric Berne
 
+Wild card bird: The Flamingo
+======
+<a href="
+  https://www.audubon.org/field-guide/bird/field-sparrow"> 
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/320036721/900"></a>
+
+Until about 1900, flocks of flamingos from the Bahamas regularly migrated to Florida Bay, in what is now Everglades National Park. Today, most flamingos seen on the loose in North America are considered suspect, as possible escapees from aviaries or zoos. However, some of those appearing in Florida Bay may still be wanderers from Bahamian colonies, and some seen in coastal Texas may come from colonies on the Yucatan Peninsula of Mexico.
 
 The Rules
 ======
