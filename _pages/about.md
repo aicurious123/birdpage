@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Baird's Sandpiper"
+title: "Today's bird: Field Sparrow"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,12 +9,10 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/bairds-sandpiper"> 
-  <img src="https://wildcolumbiacounty.files.wordpress.com/2020/07/bairds-sandpiper-1.jpg"></a>
+  https://www.audubon.org/field-guide/bird/field-sparrow"> 
+  <img src="https://www.lyricbirdfood.com/media/1409/thinkstockphotos-475659942.jpg?crop=0.078571253061191185,0.11878226702947997,0,0.16102619003633012&cropmode=percentage&width=700&height=365&rnd=132743519290000000"></a>
 
-[Baird's Sandpiper’s](https://www.audubon.org/field-guide/bird/bairds-sandpiper) long, tapering wings, an adaptation for its very long migrations, make it perhaps the most elegant of the “peeps,” the small sandpipers in the genus Calidris. Their delicate buff and brown tones are warmer than the grayish brown of many other sandpipers, lending a softness to their plumage that makes them among the most recognizable species of the group. Baird’s Sandpipers are often nicknamed “grasspipers” because of their tendency to forage in drier, more vegetated habitats than many shorebirds. The migration of the Baird's Sandpiper takes it from the arctic to the tip of South America—and the birds do it in record time.
-
- 
+The clear, “bouncing-ball” trill of the [Field Sparrow](https://www.audubon.org/field-guide/bird/field-sparrow) is a familiar summer sound in brushy fields and roadsides of the East and Midwest. The singer is a small, warm-toned sparrow with a rusty cap, neat white eyering, and pink bill. Though still common, Field Sparrows have declined sharply in the last half-century, partly because of the expansion of suburbs, where Field Sparrows will not nest. The male Field Sparrow starts singing as soon as he gets back in the spring. He sings vigorously until he finds a mate, but after that he sings only occasionally.
 
 Drawing resource: [How to Make a Comic About Birds](https://www.audubon.org/magazine/summer-2020/how-make-comic-about-birds) By Rosemary Mosco, Contributor, Audubon magazine
 
