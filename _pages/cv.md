@@ -40,6 +40,10 @@ August 11: American Redstart
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-10-JH.jpeg?raw=true)
 
+![CW](https://aicurious123.github.io/birdpage/images/8-11-CW.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-10-RP.jpg?raw=true)
+
 
 August 10: White-tailed Ptarmigan
 ======
@@ -53,6 +57,8 @@ August 10: White-tailed Ptarmigan
 ![CW](https://aicurious123.github.io/birdpage/images/8-11-CW.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-11-C-P.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-11-RP.jpg?raw=true)
 
 
 August 9: Botteri's Sparrow
