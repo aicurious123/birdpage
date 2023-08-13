@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 12: Baird's Sandpiper
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-12-CP.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-12-JH.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-12-C-P.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-12-JY.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-12-CW.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-12-RP.jpg?raw=true)
+
+
 August 11: American Redstart
 ======
 
