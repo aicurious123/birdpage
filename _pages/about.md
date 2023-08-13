@@ -16,7 +16,7 @@ The clear, “bouncing-ball” trill of the [Field Sparrow](https://www.audubon.
 
 Drawing resource: [How to Make a Comic About Birds](https://www.audubon.org/magazine/summer-2020/how-make-comic-about-birds) By Rosemary Mosco, Contributor, Audubon magazine
 
-Quote of the day: *“In order to see birds it is necessary to become a part of the silence.”* – Robert Lynd
+Quote of the day: *“The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.”* – Eric Berne
 
 
 The Rules
