@@ -12,7 +12,7 @@ redirect_from:
 August 12: Baird's Sandpiper
 ======
 
-![CP](https://aicurious123.github.io/birdpage/images/8-12-CP.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/8-12-CP.jpeg?raw=true)
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-12-JH.jpeg?raw=true)
 
