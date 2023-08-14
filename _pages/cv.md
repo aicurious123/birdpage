@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-August 13: Field Sparrow
+August 13: Field Sparrow or Wild Card Flamingo
 ======
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-13-JH.jpeg?raw=true)
