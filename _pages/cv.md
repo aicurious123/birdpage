@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 13: Field Sparrow
+======
+
+![JH](https://aicurious123.github.io/birdpage/images/8-13-JH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-13-CW.jpeg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-13-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-13-CP.jpg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-13-C.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-13-RP.jpg?raw=true)
+
+
 August 12: Baird's Sandpiper
 ======
 
