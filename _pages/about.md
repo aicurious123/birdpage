@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Field Sparrow"
+title: "Today's bird: Great Black-backed Gull"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/field-sparrow"> 
-  <img src="https://www.lyricbirdfood.com/media/1409/thinkstockphotos-475659942.jpg?crop=0.078571253061191185,0.11878226702947997,0,0.16102619003633012&cropmode=percentage&width=700&height=365&rnd=132743519290000000"></a>
+  https://www.audubon.org/field-guide/bird/great-black-backed-gull"> 
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/303402011/1800"></a>
 
-The clear, “bouncing-ball” trill of the [Field Sparrow](https://www.audubon.org/field-guide/bird/field-sparrow) is a familiar summer sound in brushy fields and roadsides of the East and Midwest. The singer is a small, warm-toned sparrow with a rusty cap, neat white eyering, and pink bill. Though still common, Field Sparrows have declined sharply in the last half-century, partly because of the expansion of suburbs, where Field Sparrows will not nest. The male Field Sparrow starts singing as soon as he gets back in the spring. He sings vigorously until he finds a mate, but after that he sings only occasionally.
+The king of the Atlantic waterfront, the [Great Black-backed Gull](https://www.audubon.org/field-guide/bird/great-black-backed-gull) is the largest gull in the world, with a powerful build and a domineering attitude. They harry other birds to steal their food and even hunt adult birds such as grebes and puffins. Adults are handsome with broad black wings, gleaming white head, and big yellow bill. North American populations were once severely threatened by the feather trade, but numbers rebounded in the twentieth century and they are now a common sight along the coasts of the northeastern U.S. and Europe, but also occurs on large lakes (especially the Great Lakes). 
 
-Drawing resource: [How to Make a Comic About Birds](https://www.audubon.org/magazine/summer-2020/how-make-comic-about-birds) By Rosemary Mosco, Contributor, Audubon magazine
 
-Quote of the day: *“The moment a little boy is concerned with which is a jay and which is a sparrow, he can no longer see the birds or hear them sing.”* – Eric Berne
+Drawing resource: [How to draw a flamingo. Step-by-step drawing tutorial](https://www.imagidraw.com/post/how-to-draw-a-flamingo-step-by-step-drawing-tutorial) by Imagidraw
+
+Quote of the day: *“Be as a bird perched on a frail branch that she feels bending beneath her, still she sings away all the same, knowing she has wings.”* – Victor Hugo
+
 
 Wild card bird: The Flamingo
 ======
