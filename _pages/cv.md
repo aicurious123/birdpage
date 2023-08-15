@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+August 14: Great Black-backed Gull or Wild Card Flamingo
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-14-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-14-CP.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-14-IH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-14-CW.jpeg?raw=true)
+
+
 August 13: Field Sparrow or Wild Card Flamingo
 ======
 
