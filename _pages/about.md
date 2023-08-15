@@ -12,7 +12,7 @@ redirect_from:
   https://www.audubon.org/field-guide/bird/great-tailed-grackle"> 
   <img src="https://www.allaboutbirds.org/guide/assets/og/75228541-1200px.jpg"></a>
 
-The [Great-tailed Grackle](https://www.audubon.org/field-guide/bird/great-tailed-grackle) (Quiscalus mexicanus) is a striking bird native to the Americas. Known for its iridescent black plumage and long, keel-shaped tail, it's a social and adaptable species often found in urban areas, fields, and marshes. Males sport larger tails and exhibit distinctive courtship displays, including puffing up feathers and emitting a range of calls. Omnivorous in diet, they forage for insects, fruits, and human food scraps. With a wide distribution from the southwestern United States to South America, the Great-tailed Grackle serves as an intriguing avian species blending urban and natural habitats.
+The [Great-tailed Grackle](https://www.audubon.org/field-guide/bird/great-tailed-grackle) (Quiscalus mexicanus) is a striking bird native to the Americas. Known for its iridescent black plumage and long, keel-shaped tail, it's a social and adaptable species often found in urban areas, fields, and marshes. Males have ridiculously long tails, almost as long as their body, and exhibit distinctive courtship displays, including puffing up feathers and emitting a range of calls. Omnivorous in diet, they forage for insects, fruits, and human food scraps. Flocks of these long-legged, social birds strut and hop on suburban lawns, golf courses, fields, and marshes in Texas, the Southwest, and southern Great Plains.
 
 
 Drawing resource: [How to draw a flamingo. Step-by-step drawing tutorial](https://www.imagidraw.com/post/how-to-draw-a-flamingo-step-by-step-drawing-tutorial) by Imagidraw
