@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Great Black-backed Gull"
+title: "Today's bird: Great-tailed Grackle"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,24 +9,23 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/great-black-backed-gull"> 
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/303402011/1800"></a>
+  https://www.audubon.org/field-guide/bird/great-tailed-grackle"> 
+  <img src="https://www.allaboutbirds.org/guide/assets/og/75228541-1200px.jpg"></a>
 
-The king of the Atlantic waterfront, the [Great Black-backed Gull](https://www.audubon.org/field-guide/bird/great-black-backed-gull) is the largest gull in the world, with a powerful build and a domineering attitude. They harry other birds to steal their food and even hunt adult birds such as grebes and puffins. Adults are handsome with broad black wings, gleaming white head, and big yellow bill. North American populations were once severely threatened by the feather trade, but numbers rebounded in the twentieth century and they are now a common sight along the coasts of the northeastern U.S. and Europe, but also occurs on large lakes (especially the Great Lakes). 
+The [Great-tailed Grackle](https://www.audubon.org/field-guide/bird/great-tailed-grackle) (Quiscalus mexicanus) is a striking bird native to the Americas. Known for its iridescent black plumage and long, keel-shaped tail, it's a social and adaptable species often found in urban areas, fields, and marshes. Males sport larger tails and exhibit distinctive courtship displays, including puffing up feathers and emitting a range of calls. Omnivorous in diet, they forage for insects, fruits, and human food scraps. With a wide distribution from the southwestern United States to South America, the Great-tailed Grackle serves as an intriguing avian species blending urban and natural habitats.
 
 
 Drawing resource: [How to draw a flamingo. Step-by-step drawing tutorial](https://www.imagidraw.com/post/how-to-draw-a-flamingo-step-by-step-drawing-tutorial) by Imagidraw
 
-Quote of the day: *“Be as a bird perched on a frail branch that she feels bending beneath her, still she sings away all the same, knowing she has wings.”* – Victor Hugo
+Quote of the day: *"Use what talents you possess. The woods would be very silent if no birds sang there except those that sang best."* - Henry Van Dyke
 
 
 Wild card bird: The Flamingo
 ======
-<a href="
-  https://www.audubon.org/field-guide/bird/field-sparrow"> 
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/320036721/900"></a>
 
-Until about 1900, flocks of flamingos from the Bahamas regularly migrated to Florida Bay, in what is now Everglades National Park. Today, most flamingos seen on the loose in North America are considered suspect, as possible escapees from aviaries or zoos. However, some of those appearing in Florida Bay may still be wanderers from Bahamian colonies, and some seen in coastal Texas may come from colonies on the Yucatan Peninsula of Mexico.
+<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-04/pixabay_pink_flamingos.jpg?itok=P1S9I0Jh">
+
+Flamingos are iconic wading birds known for their vibrant pink plumage and distinctive long, curved necks. Found in various regions around the world, from Africa to the Americas, they thrive in shallow waters of lakes, lagoons, and salt pans. Flamingos are highly social, often seen in large flocks engaged in synchronized feeding and wading. Their unique filtering beaks help them sieve out tiny food particles from the water. Flamingos' elegant stance and enchanting presence have made them symbols of grace and beauty in the natural world.
 
 The Rules
 ======
