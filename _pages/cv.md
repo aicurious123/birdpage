@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 15: Great-tailed Grackle
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-15-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-15-CP.jpg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-15-CW.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-15-C-P.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/AI-Grackle.png?raw=true)
+
+
 August 14: Great Black-backed Gull or Wild Card Flamingo
 ======
 
