@@ -20,7 +20,7 @@ Drawing resource: [How to draw a hummingbird flying](https://www.supercoloring.c
 Quote of the day: *"Keep a green tree in your heart and perhaps a singing bird will come."* - Chinese Proverb
 
 
-Wild card bird: The Flamingo
+Wild card bird: Flamingo
 ======
 
 <img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-04/pixabay_pink_flamingos.jpg?itok=P1S9I0Jh">
