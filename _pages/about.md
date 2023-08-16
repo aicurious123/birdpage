@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Great-tailed Grackle"
+title: "Today's bird: Ruby-throated Hummingbird"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/great-tailed-grackle"> 
-  <img src="https://www.allaboutbirds.org/guide/assets/og/75228541-1200px.jpg"></a>
+  https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird"> 
+  <img src="https://www.perkypet.com/media/Articles/Perky-Pet/Ruby-throated-Hummingbird-Migration.jpg"></a>
 
-The [Great-tailed Grackle](https://www.audubon.org/field-guide/bird/great-tailed-grackle) (Quiscalus mexicanus) is a striking bird native to the Americas. Known for its iridescent black plumage and long, keel-shaped tail, it's a social and adaptable species often found in urban areas, fields, and marshes. Males have ridiculously long tails, almost as long as their body, and exhibit distinctive courtship displays, including puffing up feathers and emitting a range of calls. Omnivorous in diet, they forage for insects, fruits, and human food scraps. Flocks of these long-legged, social birds strut and hop on suburban lawns, golf courses, fields, and marshes in Texas, the Southwest, and southern Great Plains.
+The [Ruby-throated Hummingbird](https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird) (Archilochus colubris) is a captivating bird native to the Americas. Renowned for its vibrant iridescent plumage and remarkable hovering abilities, it's the only hummingbird species that breeds in eastern North America. Males display a brilliant ruby-red throat, while females possess green and white feathers. The extremely short legs of the Ruby-throated Hummingbird prevent it from walking or hopping. The best it can do is shuffle along a perch. Nevertheless, it scratches its head and neck by raising its foot up and over its wing. These tiny birds feed on flower nectar and insects, and their long migrations cover impressive distances, including a non-stop flight across the Gulf of Mexico. 
 
 
-Drawing resource: [How to draw a flamingo. Step-by-step drawing tutorial](https://www.imagidraw.com/post/how-to-draw-a-flamingo-step-by-step-drawing-tutorial) by Imagidraw
+Drawing resource: [How to draw a hummingbird flying](https://www.supercoloring.com/drawing-tutorials/how-to-draw-a-hummingbird-flying#gsc.tab=0) by Paint the World
 
-Quote of the day: *"Use what talents you possess. The woods would be very silent if no birds sang there except those that sang best."* - Henry Van Dyke
+Quote of the day: *"Keep a green tree in your heart and perhaps a singing bird will come."* - Chinese Proverb
 
 
 Wild card bird: The Flamingo
