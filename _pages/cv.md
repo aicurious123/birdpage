@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 16: Ruby-throated Hummingbird
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-16-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-16-CP.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-16-IH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-16-CW.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/AI-MacG.png?raw=true)
+
+
 August 15: Great-tailed Grackle
 ======
 
