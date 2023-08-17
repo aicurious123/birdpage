@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Ruby-throated Hummingbird"
+title: "Today's bird: MacGillivray’s Warbler"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird"> 
-  <img src="https://www.perkypet.com/media/Articles/Perky-Pet/Ruby-throated-Hummingbird-Migration.jpg"></a>
+  https://www.audubon.org/field-guide/bird/macgillivrays-warbler"> 
+  <img src="https://abcbirds.org/wp-content/uploads/2020/05/BOTW-Facebook_MacGillivrays-Warbler.jpg"></a>
 
-The [Ruby-throated Hummingbird](https://www.audubon.org/field-guide/bird/ruby-throated-hummingbird) (Archilochus colubris) is a captivating bird native to the Americas. Renowned for its vibrant iridescent plumage and remarkable hovering abilities, it's the only hummingbird species that breeds in eastern North America. Males display a brilliant ruby-red throat, while females possess green and white feathers. The extremely short legs of the Ruby-throated Hummingbird prevent it from walking or hopping. The best it can do is shuffle along a perch. Nevertheless, it scratches its head and neck by raising its foot up and over its wing. These tiny birds feed on flower nectar and insects, and their long migrations cover impressive distances, including a non-stop flight across the Gulf of Mexico. 
+[MacGillivray’s Warbler](https://www.audubon.org/field-guide/bird/macgillivrays-warbler) (Geothlypis tolmiei) is a captivating songbird found in North America's western mountains and forests. With its distinctive gray head, olive-green back, and bright yellow undertail coverts, it stands out among warbler species. It prefers dense undergrowth and shrubby habitats, where it skillfully forages for insects and spiders. Despite its vibrant appearance, it can be elusive due to its preference for staying hidden. Known for its musical and varied song, the MacGillivray's Warbler adds a charming note to its woodland homes. Its unique plumage and behaviors contribute to the rich tapestry of avian life in western ecosystems.
 
 
-Drawing resource: [How to draw a hummingbird flying](https://www.supercoloring.com/drawing-tutorials/how-to-draw-a-hummingbird-flying#gsc.tab=0) by Paint the World
+Drawing resource: [Loose Watercolor Cardinal Bird Painting](https://micheleclamp.com/loose-watercolor-cardinal-bird-painting/) by Michele Clamp Art
 
-Quote of the day: *"Keep a green tree in your heart and perhaps a singing bird will come."* - Chinese Proverb
+Quote of the day: *"Birds teach us that sometimes it takes a leap of faith to spread our wings and discover the beauty of the unknown."* - Unknown
 
 
 Wild card bird: Flamingo
