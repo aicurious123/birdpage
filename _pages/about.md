@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: MacGillivray’s Warbler"
+title: "Today's bird: Barn Swallow"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/macgillivrays-warbler"> 
-  <img src="https://abcbirds.org/wp-content/uploads/2020/05/BOTW-Facebook_MacGillivrays-Warbler.jpg"></a>
+  https://www.audubon.org/field-guide/bird/barn-swallow"> 
+  <img src="https://a-z-animals.com/media/2021/08/Barn-Swallow-pair.jpg"></a>
 
-[MacGillivray’s Warbler](https://www.audubon.org/field-guide/bird/macgillivrays-warbler) (Geothlypis tolmiei) is a captivating songbird found in North America's western mountains and forests. With its distinctive gray head, olive-green back, and bright yellow undertail coverts, it stands out among warbler species. It prefers dense undergrowth and shrubby habitats, where it skillfully forages for insects and spiders. Despite its vibrant appearance, it can be elusive due to its preference for staying hidden. Known for its musical and varied song, the MacGillivray's Warbler adds a charming note to its woodland homes. Its unique plumage and behaviors contribute to the rich tapestry of avian life in western ecosystems.
+The [Barn Swallow](https://www.audubon.org/field-guide/bird/barn-swallow) (Hirundo rustica) is a distinctive bird recognized for its sleek, forked tail and cobalt-blue back. Found worldwide, these agile aviators inhabit open habitats like fields and barns, where they capture insects on the wing with incredible precision. Their intricate mud nests are often built in man-made structures. Migratory by nature, they undertake remarkable journeys between breeding grounds in temperate regions and wintering sites in the tropics. Barn Swallows once nested in caves throughout North America, but now build their nests almost exclusively on human-made structures. 
 
 
-Drawing resource: [Loose Watercolor Cardinal Bird Painting](https://micheleclamp.com/loose-watercolor-cardinal-bird-painting/) by Michele Clamp Art
+Drawing resource: [How to Draw Birds: Draw Realistic Animals](https://www.artistsnetwork.com/art-subjects/animals/draw-birds-draw-realistic-animals/) by Courtney Jordan
 
-Quote of the day: *"Birds teach us that sometimes it takes a leap of faith to spread our wings and discover the beauty of the unknown."* - Unknown
+Quote of the day: *"Every bird brings a message from the divine. Each has a song that fills our hearts with hope and reminds us to embrace the beauty of life."* - Unknown
 
 
 Wild card bird: Flamingo
