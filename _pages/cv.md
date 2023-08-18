@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 17: MacGillivray’s Warbler
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-17-CP.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-17-IH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-17-CW.jpeg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-17-C.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-17-CP.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AI-Ruby.png?raw=true)
+
+
 August 16: Ruby-throated Hummingbird
 ======
 
@@ -20,7 +36,7 @@ August 16: Ruby-throated Hummingbird
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-16-IH.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/AI-RubyT.png?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/AI-Ruby.png?raw=true)
 
 
 August 15: Great-tailed Grackle
