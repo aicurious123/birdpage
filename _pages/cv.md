@@ -20,9 +20,9 @@ August 17: MacGillivray’s Warbler
 
 ![C](https://aicurious123.github.io/birdpage/images/8-17-C.jpg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-17-CP.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/8-17-C-P.jpg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AI-Ruby.png?raw=true)
+![AI](https://aicurious123.github.io/birdpage/images/AI-MacG.png?raw=true)
 
 
 August 16: Ruby-throated Hummingbird
