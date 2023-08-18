@@ -20,7 +20,7 @@ August 17: MacGillivray’s Warbler
 
 ![C](https://aicurious123.github.io/birdpage/images/8-17-C.jpg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-17-C-P.jpg?raw=true)
+![JY](https://aicurious123.github.io/birdpage/images/8-17-JY.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AI-MacG.png?raw=true)
 
