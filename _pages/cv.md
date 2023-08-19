@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-August 18: Barn Swallow
+August 18: Barn Swallow or Wild Card Flamingo
 ======
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-18-JY.jpeg?raw=true)
@@ -20,7 +20,8 @@ August 18: Barn Swallow
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-18-CW.jpeg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AI-BarnSwallow.png?raw=true)
+![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
+
 
 
 August 17: MacGillivray’s Warbler
