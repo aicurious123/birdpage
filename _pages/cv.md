@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 18: Barn Swallow
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-18-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-18-CP.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-18-JH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-18-CW.jpeg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AI-BarnSwallow.png?raw=true)
+
+
 August 17: MacGillivray’s Warbler
 ======
 
