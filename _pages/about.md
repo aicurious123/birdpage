@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Barn Swallow"
+title: "Today's bird: Yellow Warbler"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,14 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/barn-swallow"> 
-  <img src="https://a-z-animals.com/media/2021/08/Barn-Swallow-pair.jpg"></a>
+  https://www.audubon.org/field-guide/bird/yellow-warbler"> 
+  <img src="https://www.allaboutbirds.org/guide/assets/og/75216491-1200px.jpg"></a>
 
-The [Barn Swallow](https://www.audubon.org/field-guide/bird/barn-swallow) (Hirundo rustica) is a distinctive bird recognized for its sleek, forked tail and cobalt-blue back. Found worldwide, these agile aviators inhabit open habitats like fields and barns, where they capture insects on the wing with incredible precision. Their intricate mud nests are often built in man-made structures. Migratory by nature, they undertake remarkable journeys between breeding grounds in temperate regions and wintering sites in the tropics. Barn Swallows once nested in caves throughout North America, but now build their nests almost exclusively on human-made structures. 
-
+North America has more than 50 species of warblers, but few combine brilliant color and easy viewing quite like the [Yellow Warbler](https://www.audubon.org/field-guide/bird/yellow-warbler) (Setophaga petechia). Its brilliant yellow plumage, marked with red streaks in males, adds a splash of color to diverse habitats including forests, wetlands, and gardens. These warblers are skilled insect foragers, often seen darting among foliage or catching insects in mid-air. Their sweet, melodic song is a familiar sound of spring and summer. Known for their migratory behavior, Yellow Warblers undertake impressive journeys, flying thousands of miles between their breeding and wintering grounds. 
 
 Drawing resource: [How to Draw Birds: Draw Realistic Animals](https://www.artistsnetwork.com/art-subjects/animals/draw-birds-draw-realistic-animals/) by Courtney Jordan at Artistsnewwork
 
-Quote of the day: *"Every bird brings a message from the divine. Each has a song that fills our hearts with hope and reminds us to embrace the beauty of life."* - Unknown
+Quote of the day: *"Birds have wings; they're free; they can fly where they want when they want. They have the kind of mobility many people envy."* - Roger Tory Peterson
 
 
 Wild card bird: Flamingo
