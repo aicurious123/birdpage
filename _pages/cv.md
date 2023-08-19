@@ -145,7 +145,7 @@ August 10: White-tailed Ptarmigan
 
 ![E](https://aicurious123.github.io/birdpage/images/8-11-E.jpeg?raw=true)
 
-
+![CW](https://aicurious123.github.io/birdpage/images/8-11-CW.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-11-C-P.jpeg?raw=true)
 
