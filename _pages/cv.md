@@ -20,6 +20,8 @@ August 18: Barn Swallow or Wild Card Flamingo
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-18-CW.jpeg?raw=true)
 
+![CKP](https://aicurious123.github.io/birdpage/images/8-18-CKP.jpeg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
 
 
@@ -36,6 +38,8 @@ August 17: MacGillivray’s Warbler
 ![C](https://aicurious123.github.io/birdpage/images/8-17-C.jpg?raw=true)
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-17-JY.jpeg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-17-CKP.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AI-MacG.png?raw=true)
 
