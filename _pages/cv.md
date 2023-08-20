@@ -12,20 +12,27 @@ redirect_from:
 August 19: Yellow Warbler or Wild Card Flamingo
 ======
 
-![JY](https://aicurious123.github.io/birdpage/images/8-18-JY.jpeg?raw=true)
+![SW2](https://aicurious123.github.io/birdpage/images/8-19-SW2.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/8-18-CP.jpg?raw=true)
+![SW1](https://aicurious123.github.io/birdpage/images/8-19-SW1.jpeg?raw=true)
 
-![JH](https://aicurious123.github.io/birdpage/images/8-18-JH.jpeg?raw=true)
+![JY](https://aicurious123.github.io/birdpage/images/8-19-JY3.jpeg?raw=true)
 
-![CW](https://aicurious123.github.io/birdpage/images/8-18-CW.jpeg?raw=true)
+![EM](https://aicurious123.github.io/birdpage/images/8-19-EM4.jpg?raw=true)
 
-![CKP](https://aicurious123.github.io/birdpage/images/8-18-CKP.jpeg?raw=true)
+![JH](https://aicurious123.github.io/birdpage/images/8-19-JH5.jpeg?raw=true)
 
-![RP](https://aicurious123.github.io/birdpage/images/8-18-RP.jpg?raw=true)
+![CW](https://aicurious123.github.io/birdpage/images/8-19-CW6.jpeg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-19-RP7.jpg?raw=true)
 
+![IH](https://aicurious123.github.io/birdpage/images/8-19-IH8.jpeg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-19-CKP9.jpeg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AI-YellowWarbler.png?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIFlamingo.png?raw=true)
 
 August 18: Barn Swallow or Wild Card Flamingo
 ======
