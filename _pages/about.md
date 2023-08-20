@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/yellow-warbler"> 
+  https://www.audubon.org/field-guide/bird/short-billed-dowitcher"> 
   <img src="http://tgreybirds.com/ShortbilledDowitcher17L.jpg"></a>
 
 The [Short-billed Dowitcher](https://www.audubon.org/field-guide/bird/short-billed-dowitcher) (Limnodromus griseus) is a medium-sized shorebird with a distinctively straight, short bill. Look for them in wetlands across North America, from coastal mudflats to sewage ponds and flooded fields. Like the very similar Long-billed Dowitcher, it probes for food by rhythmically inserting the bill straight up and down like a sewing machine needle at work. On tundra breeding grounds, males perform flight displays on quivering wings, delivering a grating, bubbly song.
