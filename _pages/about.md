@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Yellow Warbler"
+title: "Today's bird: Short-billed Dowitcher"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,13 +10,21 @@ redirect_from:
 
 <a href="
   https://www.audubon.org/field-guide/bird/yellow-warbler"> 
-  <img src="https://www.allaboutbirds.org/guide/assets/og/75216491-1200px.jpg"></a>
+  <img src="http://tgreybirds.com/ShortbilledDowitcher17L.jpg"></a>
 
-North America has more than 50 species of warblers, but few combine brilliant color and easy viewing quite like the [Yellow Warbler](https://www.audubon.org/field-guide/bird/yellow-warbler) (Setophaga petechia). Its brilliant yellow plumage, marked with red streaks in males, adds a splash of color to diverse habitats including forests, wetlands, and gardens. These warblers are skilled insect foragers, often seen darting among foliage or catching insects in mid-air. Their sweet, melodic song is a familiar sound of spring and summer. Known for their migratory behavior, Yellow Warblers undertake impressive journeys, flying thousands of miles between their breeding and wintering grounds. 
+The [Short-billed Dowitcher](https://www.audubon.org/field-guide/bird/short-billed-dowitcher) (Limnodromus griseus) is a medium-sized shorebird with a distinctively straight, short bill. Look for them in wetlands across North America, from coastal mudflats to sewage ponds and flooded fields. Like the very similar Long-billed Dowitcher, it probes for food by rhythmically inserting the bill straight up and down like a sewing machine needle at work. On tundra breeding grounds, males perform flight displays on quivering wings, delivering a grating, bubbly song.
 
 Drawing resource: [How to Draw Birds: Draw Realistic Animals](https://www.artistsnetwork.com/art-subjects/animals/draw-birds-draw-realistic-animals/) by Courtney Jordan at Artistsnewwork
 
-Quote of the day: *"Birds have wings; they're free; they can fly where they want when they want. They have the kind of mobility many people envy."* - Roger Tory Peterson
+Quote of the day: *"Birds symbolize freedom and perspective. When you see a bird soaring high above, it reminds you to elevate your thoughts and focus on the bigger picture."* - Unknown
+
+
+
+
+
+
+
+
 
 
 Wild card bird: Flamingo
