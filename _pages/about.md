@@ -14,7 +14,7 @@ redirect_from:
 
 The [Short-billed Dowitcher](https://www.audubon.org/field-guide/bird/short-billed-dowitcher) (Limnodromus griseus) is a medium-sized shorebird with a distinctively straight, short bill. Look for them in wetlands across North America, from coastal mudflats to sewage ponds and flooded fields. Like the very similar Long-billed Dowitcher, it probes for food by rhythmically inserting the bill straight up and down like a sewing machine needle at work. On tundra breeding grounds, males perform flight displays on quivering wings, delivering a grating, bubbly song.
 
-Drawing resource: [How to Draw Birds: Draw Realistic Animals](https://www.artistsnetwork.com/art-subjects/animals/draw-birds-draw-realistic-animals/) by Courtney Jordan at Artistsnewwork
+Drawing resource: [Draw a Realistic Bird with Graphite and Charcoal Pencil](https://thevirtualinstructor.com/realistic-bird-pencil-charcoal.html) by Matt Fussell at The Virtual Instructor
 
 Quote of the day: *"Birds symbolize freedom and perspective. When you see a bird soaring high above, it reminds you to elevate your thoughts and focus on the bigger picture."* - Unknown
 
