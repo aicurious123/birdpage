@@ -19,21 +19,6 @@ Drawing resource: [How to Draw Birds: Draw Realistic Animals](https://www.artist
 Quote of the day: *"Birds symbolize freedom and perspective. When you see a bird soaring high above, it reminds you to elevate your thoughts and focus on the bigger picture."* - Unknown
 
 
-
-
-
-
-
-
-
-
-Wild card bird: Flamingo
-======
-
-<img src="https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2020-04/pixabay_pink_flamingos.jpg?itok=P1S9I0Jh">
-
-Flamingos are iconic wading birds known for their vibrant pink plumage and distinctive long, curved necks. Found in various regions around the world, from Africa to the Americas, they thrive in shallow waters of lakes, lagoons, and salt pans. Flamingos are highly social, often seen in large flocks engaged in synchronized feeding and wading. Their unique filtering beaks help them sieve out tiny food particles from the water. Flamingos' elegant stance and enchanting presence have made them symbols of grace and beauty in the natural world.
-
 The Rules
 ======
 1. LOOK for your daily group text which will include the Bird of the Day (sourced from [this birdwatcher's list](https://www.morgantingley.com/botd/)). The photo above will link to the Audubon Society's corresponding info page.
@@ -46,7 +31,7 @@ The Rules
 
 About
 ======
-This challenge was inspired at a watercolor class Claire and I attended in July. The instructor and her sister took up watercolors as a way to stay connected and creative during the COVID lockdown. Both nature lovers, they would take turns choosing a different bird each day to draw and share, which turned out to be a great way to stay connected to each other and also to their creative selves. Further exploration led to finding the artist [Neiko Ng](http://www.neikoart.com/blog/what-am-i-up-to) who did a similar bird-a-day personal challenge with the motto, ["A bird a day keeps depression away"](https://www.bravethewoods.com/blog/draw-a-bird-a-day-depression-goes-away#:~:text=Back%20in%20September%2C%20illustrator%20Neiko,when%20the%20art%20was%20finished) and the content creator [Struthless](https://struthless.com/pages/home) who says [drawing an ibis everyday](https://www.youtube.com/watch?v=M6NsEDwHHiE) changed his life.
+This challenge was inspired at a watercolor class Claire and I attended in July. The instructor, Eileen McBride, and her sister took up watercolors as a way to stay connected during the COVID lockdown. Both nature lovers, they would take turns choosing a different bird each day to draw and share, which turned out to be a great way to stay connected to each other and also to their creative selves. Further exploration led to finding the artist [Neiko Ng](http://www.neikoart.com/blog/what-am-i-up-to) who did a similar bird-a-day personal challenge with the motto, ["A bird a day keeps depression away"](https://www.bravethewoods.com/blog/draw-a-bird-a-day-depression-goes-away#:~:text=Back%20in%20September%2C%20illustrator%20Neiko,when%20the%20art%20was%20finished) and the content creator [Struthless](https://struthless.com/pages/home) who says [drawing an ibis everyday](https://www.youtube.com/watch?v=M6NsEDwHHiE) changed his life.
 
 <a href="">
   <img src="https://img.freepik.com/free-vector/set-bird-species-engraved-sketches-illustration_74855-16242.jpg" style="width:100%">
