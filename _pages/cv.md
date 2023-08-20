@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 19: Yellow Warbler or Wild Card Flamingo
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-18-JY.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-18-CP.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-18-JH.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-18-CW.jpeg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-18-CKP.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-18-RP.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
+
+
 August 18: Barn Swallow or Wild Card Flamingo
 ======
 
@@ -22,8 +40,9 @@ August 18: Barn Swallow or Wild Card Flamingo
 
 ![CKP](https://aicurious123.github.io/birdpage/images/8-18-CKP.jpeg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-18-RP.jpg?raw=true)
 
+![AI](https://aicurious123.github.io/birdpage/images/AIBarnSwallow.png?raw=true)
 
 
 August 17: MacGillivray’s Warbler
@@ -41,6 +60,8 @@ August 17: MacGillivray’s Warbler
 
 ![CKP](https://aicurious123.github.io/birdpage/images/8-17-CKP.jpeg?raw=true)
 
+![RP](https://aicurious123.github.io/birdpage/images/8-17-RP.jpg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AI-MacG.png?raw=true)
 
 
@@ -55,7 +76,9 @@ August 16: Ruby-throated Hummingbird
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-16-IH.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/AI-Ruby.png?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-16-RP.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AI-Ruby.png?raw=true)
 
 
 August 15: Great-tailed Grackle
@@ -69,7 +92,7 @@ August 15: Great-tailed Grackle
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-15-C-P.jpeg?raw=true)
 
-![CP](https://aicurious123.github.io/birdpage/images/AI-Grackle.png?raw=true)
+![AI](https://aicurious123.github.io/birdpage/images/AI-Grackle.png?raw=true)
 
 
 August 14: Great Black-backed Gull or Wild Card Flamingo
@@ -82,6 +105,8 @@ August 14: Great Black-backed Gull or Wild Card Flamingo
 ![IH](https://aicurious123.github.io/birdpage/images/8-14-IH.jpeg?raw=true)
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-14-CW.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-14-RP.jpg?raw=true)
 
 
 August 13: Field Sparrow or Wild Card Flamingo
