@@ -32,6 +32,8 @@ August 19: Yellow Warbler or Wild Card Flamingo
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-19-RPflamingo.jpg?raw=true)
 
+![CP](https://aicurious123.github.io/birdpage/images/8-19-CP.jpg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AI-YellowWarbler.png?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIFlamingo.png?raw=true)
