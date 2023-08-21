@@ -18,7 +18,8 @@ Drawing resource: [How to Draw a Penguin](https://design.tutsplus.com/tutorials/
 
 Quote of the day: *"Birds are the poetry of the earth, singing the beauty of life."* - Debasish Mridha
 
-
+Wild card: Macaroni Penguin
+======
 
 <a href="
   https://www.biologicaldiversity.org/species/birds/penguins/macaroni_penguin.html"> 
