@@ -14,7 +14,7 @@ redirect_from:
 
 The [Lark Sparrow](https://www.audubon.org/field-guide/bird/lark-sparrow) (Chondestes grammacus) is a captivating bird of open grasslands and shrubby habitats across North America. Its distinctive appearance includes a striking facial pattern with a bold white eye stripe and a chestnut crown. It feeds on a varied diet of seeds, insects, and plant matter.  Courting male Lark Sparrows put on a dance that lasts for up to 5 minutes and starts with the male hopping, then spreading his tail and drooping his wings so that they nearly touch the ground, almost like a turkey strutting. They can be found in the West and the Great Plains in prairies, grasslands, and pastures with scattered shrubs. In winter, look for them in small flocks in brushy areas.
 
-Drawing resource: [Draw a Realistic Bird with Graphite and Charcoal Pencil](https://thevirtualinstructor.com/realistic-bird-pencil-charcoal.html) by Matt Fussell at The Virtual Instructor
+Drawing resource: [How to Draw a Penguin](https://design.tutsplus.com/tutorials/how-to-draw-a-penguin--cms-31170) by Monika Zagrobelna at Envato Tuts+
 
 Quote of the day: *"Birds are the poetry of the earth, singing the beauty of life."* - Debasish Mridha
 
