@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Short-billed Dowitcher"
+title: "Today's bird: Lark Sparrow"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,15 +9,22 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/short-billed-dowitcher"> 
-  <img src="http://tgreybirds.com/ShortbilledDowitcher17L.jpg"></a>
+  https://www.audubon.org/field-guide/bird/lark-sparrow"> 
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/192976531/1200"></a>
 
-The [Short-billed Dowitcher](https://www.audubon.org/field-guide/bird/short-billed-dowitcher) (Limnodromus griseus) is a medium-sized shorebird with a distinctively straight, short bill. Look for them in wetlands across North America, from coastal mudflats to sewage ponds and flooded fields. Like the very similar Long-billed Dowitcher, it probes for food by rhythmically inserting the bill straight up and down like a sewing machine needle at work. On tundra breeding grounds, males perform flight displays on quivering wings, delivering a grating, bubbly song.
+The [Lark Sparrow](https://www.audubon.org/field-guide/bird/lark-sparrow) (Chondestes grammacus) is a captivating bird of open grasslands and shrubby habitats across North America. Its distinctive appearance includes a striking facial pattern with a bold white eye stripe and a chestnut crown. It feeds on a varied diet of seeds, insects, and plant matter.  Courting male Lark Sparrows put on a dance that lasts for up to 5 minutes and starts with the male hopping, then spreading his tail and drooping his wings so that they nearly touch the ground, almost like a turkey strutting. They can be found in the West and the Great Plains in prairies, grasslands, and pastures with scattered shrubs. In winter, look for them in small flocks in brushy areas.
 
 Drawing resource: [Draw a Realistic Bird with Graphite and Charcoal Pencil](https://thevirtualinstructor.com/realistic-bird-pencil-charcoal.html) by Matt Fussell at The Virtual Instructor
 
-Quote of the day: *"Birds symbolize freedom and perspective. When you see a bird soaring high above, it reminds you to elevate your thoughts and focus on the bigger picture."* - Unknown
+Quote of the day: *"Birds are the poetry of the earth, singing the beauty of life."* - Debasish Mridha
 
+
+
+<a href="
+  https://www.biologicaldiversity.org/species/birds/penguins/macaroni_penguin.html"> 
+  <img src="https://detroitzoo.org/wp-content/uploads/2016/08/macaroni-p-jennie-miller.jpg"></a>
+
+The [Macaroni Penguin](https://www.biologicaldiversity.org/species/birds/penguins/macaroni_penguin.html)  (Eudyptes chrysolophus) is a striking seabird native to subantarctic and Antarctic regions. Named for its distinct yellow crest feathers that resemble the fashion of 18th-century "macaroni" dandies, it stands out among penguins. Living in colonies on rocky shores and islands, they are agile swimmers and skillful divers, hunting for krill and small fish. Despite population estimates of more than 11 million birds, macaroni penguins have experienced an estimated decline of at least 30 percent.
 
 The Rules
 ======
