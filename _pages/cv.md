@@ -22,6 +22,8 @@ August 20: Short-billed Dowitcher
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-20-RP5.jpg?raw=true)
 
+![CKP](https://aicurious123.github.io/birdpage/images/8-20-CKP6.jpeg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AIShortBilled.png?raw=true)
 
 
