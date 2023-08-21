@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 20: Short-billed Dowitcher
+======
+
+![EM](https://aicurious123.github.io/birdpage/images/8-20-EM1.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-20-JY2.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-20-CW3.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-20-CP4.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-20-RP5.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIShortBilled.png?raw=true)
+
+
 August 19: Yellow Warbler or Wild Card Flamingo
 ======
 
