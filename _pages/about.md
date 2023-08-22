@@ -15,7 +15,7 @@ redirect_from:
 The [Laughing Gull](https://www.audubon.org/field-guide/bird/laughing-gull) (Leucophaeus atricilla) is a charismatic seabird found along the coastlines of the Americas. Recognized for its distinct appearance, with a black head, white eye arcs, and a vivid red bill, it emanates a vibrant aura. Known for its distinctive, hearty calls that resemble laughter, this gull is often found in colonies on sandy beaches, nesting on the ground. Its versatile diet ranges from fish and insects to scavenged human food. Laughing Gulls are summer visitors to the Northeast and year-round sights on the coasts of the Southeast and the Gulf of Mexico.
 
 
-Drawing resource: [How to Draw a Penguin](https://design.tutsplus.com/tutorials/how-to-draw-a-penguin--cms-31170) by Monika Zagrobelna at Envato Tuts+
+Drawing resource: [How to Draw Watercolor Doodle Birds](https://artbyro.com/draw-watercolor-doodle-birds/#google_vignette) by By Roshanda at Art by Ro
 
 Quote of the day: *"Birds are not only messengers of joy, but they also teach us to embrace the winds of change and adapt with grace."* - Unknown
 
