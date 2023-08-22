@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Lark Sparrow"
+title: "Today's bird: Laughing Gull"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 <a href="
-  https://www.audubon.org/field-guide/bird/lark-sparrow"> 
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/192976531/1200"></a>
+  https://www.audubon.org/field-guide/bird/laughing-gull"> 
+  <img src="https://media.audubon.org/nas_birdapi/h_a1_3701_2_laughing-gulls_melissa_james_kk_breeding-adults.jpg"></a>
 
-The [Lark Sparrow](https://www.audubon.org/field-guide/bird/lark-sparrow) (Chondestes grammacus) distinctive appearance includes a striking facial pattern with a bold white eye stripe and a chestnut crown. It feeds on a varied diet of seeds, insects, and plant matter.  Courting male Lark Sparrows put on a dance that lasts for up to 5 minutes and starts with the male hopping, then spreading his tail and drooping his wings so that they nearly touch the ground, almost like a turkey strutting. They can be found in the West and the Great Plains in prairies, grasslands, and pastures with scattered shrubs. In winter, look for them in small flocks in brushy areas.
+The [Laughing Gull](https://www.audubon.org/field-guide/bird/laughing-gull) (Leucophaeus atricilla) is a charismatic seabird found along the coastlines of the Americas. Recognized for its distinct appearance, with a black head, white eye arcs, and a vivid red bill, it emanates a vibrant aura. Known for its distinctive, hearty calls that resemble laughter, this gull is often found in colonies on sandy beaches, nesting on the ground. Its versatile diet ranges from fish and insects to scavenged human food. Laughing Gulls are summer visitors to the Northeast and year-round sights on the coasts of the Southeast and the Gulf of Mexico.
+
 
 Drawing resource: [How to Draw a Penguin](https://design.tutsplus.com/tutorials/how-to-draw-a-penguin--cms-31170) by Monika Zagrobelna at Envato Tuts+
 
-Quote of the day: *"Birds are the poetry of the earth, singing the beauty of life."* - Debasish Mridha
+Quote of the day: *"Birds are not only messengers of joy, but they also teach us to embrace the winds of change and adapt with grace."* - Unknown
+
 
 Wild card: Macaroni Penguin
 ======
