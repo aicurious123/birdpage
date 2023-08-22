@@ -9,6 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+August 21: Lark Sparrow or Macaroni Penguin
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-21-JY1.jpeg?raw=true)
+
+![EM](https://aicurious123.github.io/birdpage/images/8-21-EM2.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-21-IH3.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-21-CW4.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-21-RP5.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-21-JH6.jpeg?raw=true)
+
+![C](https://aicurious123.github.io/birdpage/images/8-21-C7.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-21-CP8.jpg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-21-CKP9.jpeg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AILarkSparrow.png?raw=true)
+
+
 August 20: Short-billed Dowitcher
 ======
 
