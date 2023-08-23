@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 22: Laughing Gull
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-22-CP1.jpg?raw=true)
+
+![EM](https://aicurious123.github.io/birdpage/images/8-22-EM2.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-22-JY3.jpeg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-22-IH6.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-22-RP4.jpg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-22-CKP5.jpeg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AILaughingGull.png?raw=true)
+
+
 August 21: Lark Sparrow or Macaroni Penguin
 ======
 
