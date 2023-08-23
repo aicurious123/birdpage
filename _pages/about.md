@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 <a href="https://www.audubon.org/field-guide/bird/summer-tanager"> 
-  <img src="https://davesgarden.com/pics/2019/04/23/Kell/f960c8.jpg"></a>
+  <img src="
+    https://davesgarden.com/pics/2019/04/23/Kell/f960c8.jpg"></a>
 
 The only completely red bird in North America, the strawberry-colored male [Summer Tanager](https://www.audubon.org/field-guide/bird/summer-tanager) (Piranga rubra) is an eye-catching sight against the green leaves of the forest canopy. The mustard-yellow female is harder to spot, though both sexes have a very distinctive chuckling call note. As insectivores, they glean prey from foliage and catch insects mid-air and specialize in catching bees and wasps on the wing, somehow avoiding being stung by their catches. Their unique breeding behavior includes a preference for open cup nests, often built on high branches. Migratory in nature, these tanagers journey between their breeding grounds in North America and their wintering areas in Central and South America. Taxonomists used to place this genus in the same family as the true tanagers, but they now consider Summer Tanagers and their relatives to be part of the cardinal family instead.
 
