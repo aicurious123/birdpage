@@ -11,12 +11,12 @@ redirect_from:
 <a href="https://www.audubon.org/field-guide/bird/summer-tanager"> 
   <img src="https://www.nikkilynndesign.com/wp-content/uploads/2021/06/Male-and-Female-Tanager.jpg"></a>
 
-The only completely red bird in North America, the strawberry-colored male[Summer Tanager](https://www.audubon.org/field-guide/bird/summer-tanager) (Piranga rubra) is an eye-catching sight against the green leaves of the forest canopy. The mustard-yellow female is harder to spot, though both sexes have a very distinctive chuckling call note. As insectivores, they glean prey from foliage and catch insects mid-air and specialize in catching bees and wasps on the wing, somehow avoiding being stung by their catches. Their unique breeding behavior includes a preference for open cup nests, often built on high branches. Migratory in nature, these tanagers journey between their breeding grounds in North America and their wintering areas in Central and South America. Taxonomists used to place this genus in the same family as the true tanagers, but they now consider Summer Tanagers and their relatives to be part of the cardinal family instead.
+The only completely red bird in North America, the strawberry-colored male [Summer Tanager](https://www.audubon.org/field-guide/bird/summer-tanager) (Piranga rubra) is an eye-catching sight against the green leaves of the forest canopy. The mustard-yellow female is harder to spot, though both sexes have a very distinctive chuckling call note. As insectivores, they glean prey from foliage and catch insects mid-air and specialize in catching bees and wasps on the wing, somehow avoiding being stung by their catches. Their unique breeding behavior includes a preference for open cup nests, often built on high branches. Migratory in nature, these tanagers journey between their breeding grounds in North America and their wintering areas in Central and South America. Taxonomists used to place this genus in the same family as the true tanagers, but they now consider Summer Tanagers and their relatives to be part of the cardinal family instead.
 
 
 Drawing resource: [How to Draw Watercolor Doodle Birds](https://artbyro.com/draw-watercolor-doodle-birds/#google_vignette) by By Roshanda at Art by Ro
 
-Quote of the day: *"Birds are not only messengers of joy, but they also teach us to embrace the winds of change and adapt with grace."* - Unknown
+Quote of the day: *"Birds are the true artists of nature, painting the sky with their vibrant feathers and singing melodies that fill the air with wonder."* - Unknown
 
 
 Wild card: Macaroni Penguin
