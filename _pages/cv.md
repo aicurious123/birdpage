@@ -24,6 +24,8 @@ August 22: Laughing Gull
 
 ![CKP](https://aicurious123.github.io/birdpage/images/8-22-CKP5.jpeg?raw=true)
 
+![CW](https://aicurious123.github.io/birdpage/images/8-22-CW8.jpeg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AILaughingGull.png?raw=true)
 
 
