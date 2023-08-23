@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Laughing Gull"
+title: "Today's bird: Summer Tanager"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<a href="
-  https://www.audubon.org/field-guide/bird/laughing-gull"> 
-  <img src="https://media.audubon.org/nas_birdapi/h_a1_3701_2_laughing-gulls_melissa_james_kk_breeding-adults.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/summer-tanager"> 
+  <img src="https://www.nikkilynndesign.com/wp-content/uploads/2021/06/Male-and-Female-Tanager.jpg"></a>
 
-The [Laughing Gull](https://www.audubon.org/field-guide/bird/laughing-gull) (Leucophaeus atricilla) is a charismatic seabird found along the coastlines of the Americas. Recognized for its distinct appearance, with a black head, white eye arcs, and a vivid red bill, it emanates a vibrant aura. Known for its distinctive, hearty calls that resemble laughter, this gull is often found in colonies on sandy beaches, nesting on the ground. Its versatile diet ranges from fish and insects to scavenged human food. Laughing Gulls are summer visitors to the Northeast and year-round sights on the coasts of the Southeast and the Gulf of Mexico.
+The only completely red bird in North America, the strawberry-colored male[Summer Tanager](https://www.audubon.org/field-guide/bird/summer-tanager) (Piranga rubra) is an eye-catching sight against the green leaves of the forest canopy. The mustard-yellow female is harder to spot, though both sexes have a very distinctive chuckling call note. As insectivores, they glean prey from foliage and catch insects mid-air and specialize in catching bees and wasps on the wing, somehow avoiding being stung by their catches. Their unique breeding behavior includes a preference for open cup nests, often built on high branches. Migratory in nature, these tanagers journey between their breeding grounds in North America and their wintering areas in Central and South America. Taxonomists used to place this genus in the same family as the true tanagers, but they now consider Summer Tanagers and their relatives to be part of the cardinal family instead.
 
 
 Drawing resource: [How to Draw Watercolor Doodle Birds](https://artbyro.com/draw-watercolor-doodle-birds/#google_vignette) by By Roshanda at Art by Ro
