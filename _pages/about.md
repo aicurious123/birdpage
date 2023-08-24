@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Summer Tanager"
+title: "Today's bird: Warbling Vireo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/summer-tanager"> 
-  <img src="https://www.birdadvisors.com/wp-content/uploads/2021/01/summer-tanagers-1024x594.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/warbling-vireo"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/WarblingVireo08.jpg"></a>
 
-The only completely red bird in North America, the strawberry-colored male [Summer Tanager](https://www.audubon.org/field-guide/bird/summer-tanager) (Piranga rubra) is an eye-catching sight against the green leaves of the forest canopy. The mustard-yellow female is harder to spot, though both sexes have a very distinctive chuckling call note. As insectivores, they glean prey from foliage and catch insects mid-air and specialize in catching bees and wasps on the wing, somehow avoiding being stung by their catches. Their unique breeding behavior includes a preference for open cup nests, often built on high branches. Migratory in nature, these tanagers journey between their breeding grounds in North America and their wintering areas in Central and South America. Taxonomists used to place this genus in the same family as the true tanagers, but they now consider Summer Tanagers and their relatives to be part of the cardinal family instead.
+What this drab little songbird lacks in flashy plumage it makes up for with its rapid, melodious, run-on warbling song. The male [Warbling Vireo](https://www.audubon.org/field-guide/bird/warbling-vireo) (Vireo gilvus) sings incessantly from the time it arrives in the spring to well into the summer; it will even sing from the nest.Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico and the Florida Panhandle. It often nests in widely spaced trees, often cottonwood or aspen, along streams or rivers. They forage for insects, especially caterpillars, by searching rather slowly among branches and leaves, inspecting each area closely. It migrates to northern Central America and western Mexico for the non-breeding season.
 
 
 Drawing resource: [Making Birds](https://www.accessart.org.uk/pathway-making-birds/) by AccessArt
