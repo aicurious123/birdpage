@@ -16,7 +16,7 @@ What this drab little songbird lacks in flashy plumage it makes up for with its 
 
 Drawing resource: [Making Birds](https://www.accessart.org.uk/pathway-making-birds/) by AccessArt
 
-Quote of the day: *"Birds are the true artists of nature, painting the sky with their vibrant feathers and singing melodies that fill the air with wonder."* - Unknown
+Quote of the day: *""Birds remind us that even in the darkest of times, there is always a song waiting to be sung."* - Unknown
 
 
 Wild card: Macaroni Penguin
