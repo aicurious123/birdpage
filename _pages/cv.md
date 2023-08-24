@@ -12,17 +12,19 @@ redirect_from:
 August 23: Summer Tanager
 ======
 
-![EM](https://aicurious123.github.io/birdpage/images/8-23-EM1.jpg?raw=true)
+![EM](https://aicurious123.github.io/birdpage/images/8-23-EM1.jpeg?raw=true)
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-23-JY2.jpeg?raw=true)
 
 ![JH](https://aicurious123.github.io/birdpage/images/8-23-JH3.jpeg?raw=true)
 
-![CW](https://aicurious123.github.io/birdpage/images/08-23-CW4.jpeg?raw=true)
+![CW](https://aicurious123.github.io/birdpage/images/8-23-CW4.jpeg?raw=true)
 
 ![C](https://aicurious123.github.io/birdpage/images/8-23-C5.jpg?raw=true)
 
 ![IH](https://aicurious123.github.io/birdpage/images/8-23-IH6.jpeg?raw=true)
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-23-CKP7.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AISummerTanager.png?raw=true)
 
