@@ -14,7 +14,7 @@ redirect_from:
 What this drab little songbird lacks in flashy plumage it makes up for with its rapid, melodious, run-on warbling song. The male [Warbling Vireo](https://www.audubon.org/field-guide/bird/warbling-vireo) (Vireo gilvus) sings incessantly from the time it arrives in the spring to well into the summer; it will even sing from the nest.Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico and the Florida Panhandle. It often nests in widely spaced trees, often cottonwood or aspen, along streams or rivers. They forage for insects, especially caterpillars, by searching rather slowly among branches and leaves, inspecting each area closely. It migrates to northern Central America and western Mexico for the non-breeding season.
 
 
-Drawing resource: [Making Birds](https://www.accessart.org.uk/pathway-making-birds/) by AccessArt
+Drawing resource: [Sketching for Birders](https://johnmuirlaws.com/sketching-for-birders-with-mesilla-audubon/) with Mesilla Valley Audubon Society
 
 Quote of the day: *""Birds remind us that even in the darkest of times, there is always a song waiting to be sung."* - Unknown
 
