@@ -24,7 +24,7 @@ August 23: Summer Tanager
 
 ![IH](https://aicurious123.github.io/birdpage/images/8-23-IH6.jpeg?raw=true)
 
-
+![CKP](https://aicurious123.github.io/birdpage/images/8-23-CKP7.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AISummerTanager.png?raw=true)
 
