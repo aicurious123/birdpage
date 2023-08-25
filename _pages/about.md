@@ -13,7 +13,7 @@ redirect_from:
 
 A brilliant red bird with a white face and yellow bill in summer, the [Red Phalarope](https://www.audubon.org/field-guide/bird/red-phalarope) (Phalaropus fulicarius) becomes a subdued gray-and-white speck on the open ocean in the nonbreeding season. Its vibrant breeding plumage includes shades of red, contrasting with a white face and black markings.  This transformation helps explain the name often used for this species in Europe: “grey phalarope.” A remarkable example of reversed sexual roles in birds, females are the more brightly colored sex and males incubate eggs and care for the young. These agile swimmers are often found at sea, feeding by spinning rapidly on the water to stir up prey. Their impressive migrations take them from the northern reaches to wintering areas in open oceans. 
 
-Drawing resource: [Sketching for Birders](https://johnmuirlaws.com/sketching-for-birders-with-mesilla-audubon/) with Mesilla Valley Audubon Society
+Drawing resource: [Nature Journaling And Sketching: Tips For Birders](https://www.allaboutbirds.org/news/nature-journaling-and-sketching-tips-for-birders/) by Liz Clayton Fuller at The Cornell Lab
 
 Quote of the day: *"Birds are the truest reflection of freedom; they soar without boundaries, sing without inhibitions, and remind us that we too can rise above our circumstances."* - Unknown
 
