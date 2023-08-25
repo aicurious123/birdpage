@@ -18,9 +18,9 @@ August 24: Warbling Vireo or Macaroni Penguin
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-24-JY3.jpeg?raw=true)
 
-![CW](https://aicurious123.github.io/birdpage/images/8-24-CW4.jpeg?raw=true)
+![CW](https://aicurious123.github.io/birdpage/images/8-24-CW4.JPG?raw=true)
 
-![RP](https://aicurious123.github.io/birdpage/images/8-23-RP5.jpg?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-23-RP.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIWarblingVireo.png?raw=true)
 
