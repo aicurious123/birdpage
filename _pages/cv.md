@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 24: Warbling Vireo or Macaroni Penguin
+======
+
+![CKP](https://aicurious123.github.io/birdpage/images/8-24-CKP1.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-24-CP2.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-24-JY3.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-24-CW4.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-23-RP5.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIWarblingVireo.png?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIMacaroniPenguin.png?raw=true)
+
+
 August 23: Summer Tanager
 ======
 
@@ -27,6 +45,8 @@ August 23: Summer Tanager
 ![CKP](https://aicurious123.github.io/birdpage/images/8-23-CKP7.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-23-CP8.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-23-RP.jpg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AISummerTanager.png?raw=true)
 
