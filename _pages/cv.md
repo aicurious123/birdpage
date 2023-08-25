@@ -20,7 +20,7 @@ August 24: Warbling Vireo or Macaroni Penguin
 
 ![CW](https://aicurious123.github.io/birdpage/images/8-24-CW4.JPG?raw=true)
 
-![RP](https://aicurious123.github.io/birdpage/images/8-23-RP.jpeg?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-24-RP5.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIWarblingVireo.png?raw=true)
 
@@ -46,7 +46,7 @@ August 23: Summer Tanager
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-23-CP8.jpg?raw=true)
 
-![RP](https://aicurious123.github.io/birdpage/images/8-23-RP.jpg?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/8-23-RP.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AISummerTanager.png?raw=true)
 
