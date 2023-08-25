@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Warbling Vireo"
+title: "Today's bird: Red Phalarope"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/warbling-vireo"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/WarblingVireo08.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/red-phalarope"> 
+  <img src="https://res-5.cloudinary.com/ebirdr/image/upload/s--chkod3ia--/f_auto,q_auto,t_full/1815-red-phalarope.jpg"></a>
 
-What this drab little songbird lacks in flashy plumage it makes up for with its rapid, melodious, run-on warbling song. The male [Warbling Vireo](https://www.audubon.org/field-guide/bird/warbling-vireo) (Vireo gilvus) sings incessantly from the time it arrives in the spring to well into the summer; it will even sing from the nest. Its breeding habitat is open deciduous and mixed woods from Alaska to Mexico and the Florida Panhandle, and often nests in widely spaced trees, often cottonwood or aspen, along streams or rivers. They forage for insects, especially caterpillars, by searching rather slowly among branches and leaves, inspecting each area closely. It migrates to northern Central America and western Mexico for the non-breeding season.
-
+A brilliant red bird with a white face and yellow bill in summer, the [Red Phalarope](https://www.audubon.org/field-guide/bird/red-phalarope) (Phalaropus fulicarius) becomes a subdued gray-and-white speck on the open ocean in the nonbreeding season. Its vibrant breeding plumage includes shades of red, contrasting with a white face and black markings.  This transformation helps explain the name often used for this species in Europe: “grey phalarope.” A remarkable example of reversed sexual roles in birds, females are the more brightly colored sex and males incubate eggs and care for the young. These agile swimmers are often found at sea, feeding by spinning rapidly on the water to stir up prey. Their impressive migrations take them from the northern reaches to wintering areas in open oceans. 
 
 Drawing resource: [Sketching for Birders](https://johnmuirlaws.com/sketching-for-birders-with-mesilla-audubon/) with Mesilla Valley Audubon Society
 
-Quote of the day: *""Birds remind us that even in the darkest of times, there is always a song waiting to be sung."* - Unknown
+Quote of the day: *"Birds are the truest reflection of freedom; they soar without boundaries, sing without inhibitions, and remind us that we too can rise above our circumstances."* - Unknown
 
 
 Wild card: Macaroni Penguin
