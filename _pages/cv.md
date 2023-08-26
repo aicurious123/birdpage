@@ -13,13 +13,13 @@ redirect_from:
 August 25: Red Phalarope
 ======
 
-![JY](https://aicurious123.github.io/birdpage/images/8-25-JY1.jpeg?raw=true)
+![JY](https://aicurious123.github.io/birdpage/images/08-25-JY1.jpeg?raw=true)
 
-![CW](https://aicurious123.github.io/birdpage/images/8-25-CW2.JPG?raw=true)
+![CW](https://aicurious123.github.io/birdpage/images/08-25-CW2.jpeg?raw=true)
 
-![CKP](https://aicurious123.github.io/birdpage/images/8-25-CKP3.jpeg?raw=true)
+![CKP](https://aicurious123.github.io/birdpage/images/08-25-CKP3.jpeg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AIRedP.jpg?raw=true)
+![AI](https://aicurious123.github.io/birdpage/images/AIRedP.jpeg?raw=true)
 
 
 August 24: Warbling Vireo or Macaroni Penguin
