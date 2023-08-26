@@ -25,7 +25,7 @@ Wild card: Belted Kingfisher
 <a href="https://www.audubon.org/field-guide/bird/belted-kingfisher"> 
   <img src="https://www.thedailyworld.com/wp-content/uploads/2018/11/14247874_web1_TEASE-Belted-Kingfisher.jpg"></a>
 
-The [Belted Kingfisher](https://www.audubon.org/field-guide/bird/belted-kingfisher)  (Eudyptes chrysolophus) is a striking seabird native to subantarctic and Antarctic regions. Named for its distinct yellow crest feathers that resemble the fashion of 18th-century "macaroni" dandies, it stands out among penguins. Living in colonies on rocky shores and islands, they are agile swimmers and skillful divers, hunting for krill and small fish. Despite population estimates of more than 11 million birds, macaroni penguins have experienced an estimated decline of at least 30 percent.
+With its top-heavy physique, energetic flight, and piercing rattle, the [Belted Kingfisher](https://www.audubon.org/field-guide/bird/belted-kingfisher) (Megaceryle alcyon) seems to have an air of self-importance as it patrols up and down rivers and shorelines. It nests in burrows along earthen banks and feeds almost entirely on aquatic prey, diving to catch fish and crayfish with its heavy, straight bill. These ragged-crested birds are a powdery blue-gray; males have one blue band across the white breast, while females have a blue and a chestnut band. Belted Kingfishers wander widely, sometimes showing up in the Galapagos Islands, Hawaii, the British Isles, the Azores, Iceland, Greenland, and the Netherlands.
 
 
 Wild card: Macaroni Penguin
