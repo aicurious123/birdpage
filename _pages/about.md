@@ -19,6 +19,15 @@ Drawing resource: [How to sketch a bird on toned paper with watercolor](https://
 Quote of the day: *“I love the freedom of my wings. I love the empty space above the ground. I rejoice in my freedom. Freedom is my religion. Peace is my God. Love is my worship.”* – Banani Ray
 
 
+Wild card: Belted Kingfisher
+======
+
+<a href="https://www.audubon.org/field-guide/bird/belted-kingfisher"> 
+  <img src="https://www.thedailyworld.com/wp-content/uploads/2018/11/14247874_web1_TEASE-Belted-Kingfisher.jpg"></a>
+
+The [Belted Kingfisher](https://www.audubon.org/field-guide/bird/belted-kingfisher)  (Eudyptes chrysolophus) is a striking seabird native to subantarctic and Antarctic regions. Named for its distinct yellow crest feathers that resemble the fashion of 18th-century "macaroni" dandies, it stands out among penguins. Living in colonies on rocky shores and islands, they are agile swimmers and skillful divers, hunting for krill and small fish. Despite population estimates of more than 11 million birds, macaroni penguins have experienced an estimated decline of at least 30 percent.
+
+
 Wild card: Macaroni Penguin
 ======
 
