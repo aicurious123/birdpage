@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Red Phalarope"
+title: "Today's bird: California Thrasher"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/red-phalarope"> 
-  <img src="https://res-5.cloudinary.com/ebirdr/image/upload/s--chkod3ia--/f_auto,q_auto,t_full/1815-red-phalarope.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/california-thrasher"> 
+  <img src="https://ca-times.brightspotcdn.com/dims4/default/cf07e0f/2147483647/strip/true/crop/1217x685+0+64/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F4ffdff811da3497586bc453335fd%2Fsdut-the-california-thrasher-is-a-re-20160906"></a>
 
-A brilliant red bird with a white face and yellow bill in summer, the [Red Phalarope](https://www.audubon.org/field-guide/bird/red-phalarope) (Phalaropus fulicarius) becomes a subdued gray-and-white speck on the open ocean in the nonbreeding season. Its vibrant breeding plumage includes shades of red, contrasting with a white face and black markings.  This transformation helps explain the name often used for this species in Europe: “grey phalarope.” A remarkable example of reversed sexual roles in birds, females are the more brightly colored sex and males incubate eggs and care for the young. These agile swimmers are often found at sea, feeding by spinning rapidly on the water to stir up prey. Their impressive migrations take them from the northern reaches to wintering areas in open oceans. 
+A long-tailed, lanky songbird with a deeply curved bill, the [California Thrasher](https://www.audubon.org/field-guide/bird/california-thrasher) (Toxostoma redivivum) is a key species of California chaparral. This relative of mockingbirds is an exuberant songster, and both males and females sing from the tops of shrubs, sometimes duetting. Expert foragers, they use their bills to dig for insects and other invertebrates as is known for its ground-nesting behavior. Most live their entire lives in chaparral habitat, a plant community that has evolved with regular, intense fires during the dry months. Studies indicate that they reach their peak population densities in chaparral about 20 years after a burn. This species is on the Yellow Watch List for its restricted range.
 
-Drawing resource: [Nature Journaling And Sketching: Tips For Birders](https://www.allaboutbirds.org/news/nature-journaling-and-sketching-tips-for-birders/) by Liz Clayton Fuller at The Cornell Lab
 
-Quote of the day: *"Birds are the truest reflection of freedom; they soar without boundaries, sing without inhibitions, and remind us that we too can rise above our circumstances."* - Unknown
+Drawing resource: [How to sketch a bird on toned paper with watercolor](https://danielsmith.com/tutorials/how-to-sketch-bird-toned-paper-watercolor/) by Daniel Smith
+
+Quote of the day: *“I love the freedom of my wings. I love the empty space above the ground. I rejoice in my freedom. Freedom is my religion. Peace is my God. Love is my worship.”* – Banani Ray
 
 
 Wild card: Macaroni Penguin
