@@ -19,6 +19,8 @@ August 25: Red Phalarope
 
 ![CKP](https://aicurious123.github.io/birdpage/images/08-25-CKP3.jpeg?raw=true)
 
+![RP](https://aicurious123.github.io/birdpage/images/08-25-RP-4.jpg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AIRedP.jpeg?raw=true)
 
 
