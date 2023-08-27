@@ -15,7 +15,8 @@ A large, vibrantly blue bunting with a silver bill and chestnut wingbars, the ma
 
 
 
-Drawing resource: [How to sketch a bird on toned paper with watercolor](https://danielsmith.com/tutorials/how-to-sketch-bird-toned-paper-watercolor/) by Daniel Smith
+Drawing resource: [How to Draw a Belted Kingfisher
+](https://www.youtube.com/watch?v=AuwXyPJhnmQ) by How2DrawAnimals
 
 Quote of the day: *“I love the freedom of my wings. I love the empty space above the ground. I rejoice in my freedom. Freedom is my religion. Peace is my God. Love is my worship.”* – Banani Ray
 
