@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: California Thrasher"
+title: "Today's bird: Blue Grosbeak"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/california-thrasher"> 
-  <img src="https://ca-times.brightspotcdn.com/dims4/default/cf07e0f/2147483647/strip/true/crop/1217x685+0+64/resize/1200x675!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdb%2F7d%2F4ffdff811da3497586bc453335fd%2Fsdut-the-california-thrasher-is-a-re-20160906"></a>
+<a href="https://www.audubon.org/field-guide/bird/blue-grosbeak"> 
+  <img src="https://www.birdsandblooms.com/wp-content/uploads/2023/03/GettyImages-178710993.jpg"></a>
 
-A long-tailed, lanky songbird with a deeply curved bill, the [California Thrasher](https://www.audubon.org/field-guide/bird/california-thrasher) (Toxostoma redivivum) is a key species of California chaparral. This relative of mockingbirds is an exuberant songster, and both males and females sing from the tops of shrubs, sometimes duetting. Expert foragers, they use their bills to dig for insects and other invertebrates as is known for its ground-nesting behavior. Most live their entire lives in chaparral habitat, a plant community that has evolved with regular, intense fires during the dry months. Studies indicate that they reach their peak population densities in chaparral about 20 years after a burn. This species is on the Yellow Watch List for its restricted range.
+A large, vibrantly blue bunting with a silver bill and chestnut wingbars, the male [Blue Grosbeak](https://www.audubon.org/field-guide/bird/blue-grosbeak) (Passerina caerulea) sings a rich, warbling song from trees and roadside wires. The male boasts vibrant blue plumage with chestnut wing bars, while the female is more subtly colored. He and his cinnamon-colored mate often raise two broods of nestlings in a single breeding season. As an omnivore, it feeds on insects, seeds, and fruits. With a preference for nesting low in shrubs, it often remains concealed during breeding season and can be hard to spot unless you hear them singing first. They are widespread but not abundant across the southern U.S., and are expanding their range.
+
 
 
 Drawing resource: [How to sketch a bird on toned paper with watercolor](https://danielsmith.com/tutorials/how-to-sketch-bird-toned-paper-watercolor/) by Daniel Smith
