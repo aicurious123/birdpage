@@ -9,6 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+August 26: California Thrasher or Macaroni Penguin
+======
+
+![CW](https://aicurious123.github.io/birdpage/images/8-26-CW1.jpeg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-26-JY2.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-26-RP3.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-26-RP4.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-26-CP5.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AICaliThrasher.jpeg?raw=true)
+
 
 August 25: Red Phalarope
 ======
