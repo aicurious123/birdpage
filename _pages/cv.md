@@ -22,7 +22,7 @@ August 26: California Thrasher or Macaroni Penguin
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-26-CP5.jpg?raw=true)
 
-![AI](https://aicurious123.github.io/birdpage/images/AICaliThrasher.jpeg?raw=true)
+![AI](https://aicurious123.github.io/birdpage/images/AICaliThrasher.png?raw=true)
 
 
 August 25: Red Phalarope
