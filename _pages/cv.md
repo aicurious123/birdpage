@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+August 27: Blue Grosbeak
+======
+
+![RP](https://aicurious123.github.io/birdpage/images/8-27-RP1.jpg?raw=true)
+
+![JY](https://aicurious123.github.io/birdpage/images/8-27-JY2.jpeg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-27-CW3.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-27-CP4.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIBlueGrosbeak.png?raw=true)
+
+
 August 26: California Thrasher or Macaroni Penguin
 ======
 
