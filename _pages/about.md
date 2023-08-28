@@ -15,8 +15,7 @@ The [House Finch](https://www.audubon.org/field-guide/bird/house-finch) (Haemorh
 
 
 
-Drawing resource: [How to Draw a Belted Kingfisher
-](https://www.youtube.com/watch?v=AuwXyPJhnmQ) by How2DrawAnimals
+Drawing resource: [Acrylic Painting Bird On Branch](https://www.youtube.com/watch?v=GKEaue_8G5g) by Aham Art
 
 Quote of the day: *"Birds are the keys to heaven; they open the door to uncharted skies and carry the songs of eternity in their wings."* – Unknown
 
