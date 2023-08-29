@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: House Finch"
+title: "Today's bird: Glossy Ibis"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,16 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/house-finch"> 
-  <img src="https://bloximages.chicago2.vip.townnews.com/eagletimes.com/content/tncms/assets/v3/editorial/9/c1/9c1e63cf-5282-5b3d-81a7-9500b908eed0/5e50054f33d9b.image.jpg?crop=1280%2C672%2C0%2C90&resize=1200%2C630&order=crop%2Cresize"></a>
+<a href="https://www.audubon.org/field-guide/bird/glossy-ibis"> 
+  <img src="https://www.birdnote.org/sites/default/files/glossy-ibis-ted-morgan-1800_crp.jpg"></a>
 
-The [House Finch](https://www.audubon.org/field-guide/bird/house-finch) (Haemorhous mexicanus) was originally a bird of the western United States and Mexico. In 1940 a small number of finches were turned loose on Long Island, New York, after failed attempts to sell them as cage birds (“Hollywood finches”). They quickly started breeding and spread across almost all of the eastern United States and southern Canada within the next 50 years. The red of a male comes from pigments contained in its food during molt (birds can’t make bright red or yellow colors directly). So the more pigment in the food, the redder the male. while females possess more subdued colors.  They are strict vegetarians, eating seeds, buds and fruit throughout the year, and feeding the same vegetarian diet to their chicks. Gregarious and social, House Finches are found in noisy groups that are hard to miss if present.
-
+The [Glossy Ibis](https://www.audubon.org/field-guide/bird/glossy-ibis) (Plegadis falcinellus) is a wading bird known for its striking iridescent plumage.  This long-legged, long-billed bird forages in flocks through wetlands and wet agricultural fields, probing into mud and water for insects, small fish, and seeds. The birds are somewhat nomadic, dispersing widely after the nesting season—a tendency that has aided the species in the past 100 years as it has expanded its range from the southeastern U.S. to include much of eastern North America. It is also found in Central America, South America, Africa, southern Eurasia and Australasia.
 
 
 Drawing resource: [Acrylic Painting Bird On Branch](https://www.youtube.com/watch?v=GKEaue_8G5g) by Aham Art
 
-Quote of the day: *"Birds are the keys to heaven; they open the door to uncharted skies and carry the songs of eternity in their wings."* – Unknown
+Quote of the day: *"Like a bird singing in the rain, let grateful memories survive in time of sorrow."* - Robert Louis Stevenson
 
 
 Wild card: Belted Kingfisher
