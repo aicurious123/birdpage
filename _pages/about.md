@@ -14,7 +14,7 @@ redirect_from:
 The [Glossy Ibis](https://www.audubon.org/field-guide/bird/glossy-ibis) (Plegadis falcinellus) is a wading bird known for its striking iridescent plumage.  This long-legged, long-billed bird forages in flocks through wetlands and wet agricultural fields, probing into mud and water for insects, small fish, and seeds. The birds are somewhat nomadic, dispersing widely after the nesting season—a tendency that has aided the species in the past 100 years as it has expanded its range from the southeastern U.S. to include much of eastern North America. It is also found in Central America, South America, Africa, southern Eurasia and Australasia.
 
 
-Drawing resource: [Acrylic Painting Bird On Branch](https://www.youtube.com/watch?v=GKEaue_8G5g) by Aham Art
+Drawing resource: [How to Draw a Glossy Ibis](https://www.drawingtutorials101.com/how-to-draw-a-glossy-ibis) by DrawingTutorials
 
 Quote of the day: *"Like a bird singing in the rain, let grateful memories survive in time of sorrow."* - Robert Louis Stevenson
 
