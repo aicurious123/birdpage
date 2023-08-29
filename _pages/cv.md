@@ -9,6 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+August 27: House Finch
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-28-JY1.jpeg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-28-CP2.jpg?raw=true)
+
+![CW](https://aicurious123.github.io/birdpage/images/8-28-CW3.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-28-RP4.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIHouseFinch.png?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIHouseFinch2.png?raw=true)
+
+
 August 27: Blue Grosbeak
 ======
 
@@ -19,6 +35,8 @@ August 27: Blue Grosbeak
 ![CW](https://aicurious123.github.io/birdpage/images/8-27-CW3.jpeg?raw=true)
 
 ![CP](https://aicurious123.github.io/birdpage/images/8-27-CP4.jpg?raw=true)
+
+![JH](https://aicurious123.github.io/birdpage/images/8-27-JH.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIBlueGrosbeak.png?raw=true)
 
