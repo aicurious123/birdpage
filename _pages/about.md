@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Glossy Ibis"
+title: "Today's bird: Tennessee Warbler"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/glossy-ibis"> 
-  <img src="https://www.birdnote.org/sites/default/files/glossy-ibis-ted-morgan-1800_crp.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/tennessee-warbler"> 
+  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/296781431/1800"></a>
 
-The [Glossy Ibis](https://www.audubon.org/field-guide/bird/glossy-ibis) (Plegadis falcinellus) is a wading bird known for its striking iridescent plumage.  This long-legged, long-billed bird forages in flocks through wetlands and wet agricultural fields, probing into mud and water for insects, small fish, and seeds. The birds are somewhat nomadic, dispersing widely after the nesting season—a tendency that has aided the species in the past 100 years as it has expanded its range from the southeastern U.S. to include much of eastern North America. It is also found in Central America, South America, Africa, southern Eurasia and Australasia.
+[Tennessee Warblers](https://www.audubon.org/field-guide/bird/tennessee-warbler) (Leiothlypis peregrina) are dainty, thin-billed warblers that breed in the boreal forest of Canada and winter in Central and South America. Though they lack the brilliant colors of other warbler species, breeding males are a crisp mixture of gray head, white stripe over the eye, and green back. This numerous species eats mostly small caterpillars and benefits from the spruce budworm outbreaks that happen periodically in their breeding habitat. During budworm epidemics, the breeding density for this warbler may exceed 50 territories / 25 acres!
 
 
-Drawing resource: [How to Draw a Glossy Ibis](https://www.drawingtutorials101.com/how-to-draw-a-glossy-ibis) by DrawingTutorials
+Drawing resource: [How to Draw Warblers](https://johnmuirlaws.com/how-to-draw-warblers/) by John Muir Laws
 
-Quote of the day: *"Like a bird singing in the rain, let grateful memories survive in time of sorrow."* - Robert Louis Stevenson
+Quote of the day: *"The smallest of birds can carry the weightiest of messages."* - Robert Lynd
 
 
 Wild card: Belted Kingfisher
