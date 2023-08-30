@@ -12,9 +12,9 @@ redirect_from:
 August 29: Glossy Ibis
 ======
 
-![CP](https://aicurious123.github.io/birdpage/images/8-29-CP1.jpg?raw=true)
+![CP](https://aicurious123.github.io/birdpage/images/08-29-CP1.jpg?raw=true)
 
-![RP](https://aicurious123.github.io/birdpage/images/8-29-RP2.jpg?raw=true)
+![RP](https://aicurious123.github.io/birdpage/images/08-29-RP2.jpg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIGlossyIbis.png?raw=true)
 
