@@ -16,7 +16,7 @@ August 29: Glossy Ibis
 
 ![RP](https://aicurious123.github.io/birdpage/images/08-29-RP2.jpg?raw=true)
 
-![ckp](https://aicurious123.github.io/birdpage/images/73069DD7-8C70-4949-AF6B-9CAC7549DFD6.jpeg?raw=true)
+![CKP](https://aicurious123.github.io/birdpage/images/73069DD7-8C70-4949-AF6B-9CAC7549DFD6.jpeg?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIGlossyIbis.png?raw=true)
 
