@@ -18,7 +18,7 @@ Drawing resource: [How to Draw Warblers](https://johnmuirlaws.com/how-to-draw-wa
 
 Quote of the day: *"The smallest of birds can carry the weightiest of messages."* - Robert Lynd
 
-
+ 
 Wild card: Belted Kingfisher
 ======
 
