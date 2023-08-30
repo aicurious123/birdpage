@@ -9,7 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-August 27: House Finch
+August 29: Glossy Ibis
+======
+
+![CP](https://aicurious123.github.io/birdpage/images/8-29-CP1.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-29-RP2.jpg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIGlossyIbis.png?raw=true)
+
+
+August 28: House Finch
 ======
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-28-JY1.jpeg?raw=true)
