@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Today's bird: Tennessee Warbler"
+title: "Today's bird: American Kestrel"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://www.audubon.org/field-guide/bird/tennessee-warbler"> 
-  <img src="https://cdn.download.ams.birds.cornell.edu/api/v1/asset/296781431/1800"></a>
+<a href="https://www.audubon.org/field-guide/bird/american-kestrel"> 
+  <img src="https://static01.nyt.com/images/2015/10/18/nyregion/18NATURE/18NATURE-superJumbo-v2.jpg"></a>
 
-[Tennessee Warblers](https://www.audubon.org/field-guide/bird/tennessee-warbler) (Leiothlypis peregrina) are dainty, thin-billed warblers that breed in the boreal forest of Canada and winter in Central and South America. Though they lack the brilliant colors of other warbler species, breeding males are a crisp mixture of gray head, white stripe over the eye, and green back. This numerous species eats mostly small caterpillars and benefits from the spruce budworm outbreaks that happen periodically in their breeding habitat. During budworm epidemics, the breeding density for this warbler may exceed 50 territories / 25 acres!
+North America’s littlest falcon, the [American kestrel](https://www.audubon.org/field-guide/bird/american-kestrel) (Falco sparverius), packs a predator’s fierce intensity into its small body. Hunting for insects and other small prey in open territory, kestrels perch on wires or poles, or hover facing into the wind, flapping and adjusting their long tails to stay in place. Kestrels hide surplus kills in grass clumps, tree roots, bushes, fence posts, tree limbs, and cavities, to save the food for lean times or to hide it from thieves. Catch them by the hundreds at coastal migration sites—such as Cape May, New Jersey, or Kiptopeke, Virginia—in September or early October. Kestrels are declining in parts of their range; you can help them by putting up nest boxes.
+
 
 
 Drawing resource: [How to Draw Warblers](https://johnmuirlaws.com/how-to-draw-warblers/) by John Muir Laws
