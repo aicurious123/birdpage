@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-August 30: Tennessee Warbler
+August 30: Tennessee Warbler or Belted Kingfisher
 ======
 
 ![JY](https://aicurious123.github.io/birdpage/images/8-30-JY1.jpg?raw=true)
