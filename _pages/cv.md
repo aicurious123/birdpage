@@ -12,7 +12,7 @@ redirect_from:
 August 30: Tennessee Warbler
 ======
 
-![JY](https://aicurious123.github.io/birdpage/images/8-30-JY1.jpeg?raw=true)
+![JY](https://aicurious123.github.io/birdpage/images/8-30-JY1.jpg?raw=true)
 
 ![RP](https://aicurious123.github.io/birdpage/images/8-30-RP2.jpg?raw=true)
 
