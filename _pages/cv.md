@@ -9,6 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+August 30: Tennessee Warbler
+======
+
+![JY](https://aicurious123.github.io/birdpage/images/8-30-JY1.jpeg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-30-RP2.jpg?raw=true)
+
+![RP](https://aicurious123.github.io/birdpage/images/8-30-RP3.jpg?raw=true)
+
+![CP](https://aicurious123.github.io/birdpage/images/8-30-CP4.jpg?raw=true)
+
+![IH](https://aicurious123.github.io/birdpage/images/8-30-IH5.jpeg?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AITennWarb.png?raw=true)
+
+![AI](https://aicurious123.github.io/birdpage/images/AIBeltedK.png?raw=true)
+
+
 August 29: Glossy Ibis
 ======
 
