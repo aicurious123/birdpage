@@ -22,6 +22,8 @@ August 30: Tennessee Warbler or Belted Kingfisher
 
 ![IH](https://aicurious123.github.io/birdpage/images/8-30-IH5.jpeg?raw=true)
 
+![CKP](https://aicurious123.github.io/birdpage/images/8-31-CKP.jpeg?raw=true)
+
 ![AI](https://aicurious123.github.io/birdpage/images/AITennWarb.png?raw=true)
 
 ![AI](https://aicurious123.github.io/birdpage/images/AIBeltedK.png?raw=true)
