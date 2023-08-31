@@ -15,18 +15,18 @@ North America’s littlest falcon, the [American kestrel](https://www.audubon.or
 
 
 
-Drawing resource: [How to Draw Warblers](https://johnmuirlaws.com/how-to-draw-warblers/) by John Muir Laws
+Drawing resource: [How to Draw a Hawk](https://design.tutsplus.com/tutorials/how-to-draw-a-hawk--cms-31764) by Envato Tuts+
 
-Quote of the day: *"The smallest of birds can carry the weightiest of messages."* - Robert Lynd
+Quote of the day: *“Birds were created to record everything. They were not designed just to be beautiful jewels in the sky, but to serve as the eyes of heaven.”* – Suzy Kassem
 
  
-Wild card: Belted Kingfisher
+Wild card: Purple Gallinule 
 ======
 
-<a href="https://www.audubon.org/field-guide/bird/belted-kingfisher"> 
-  <img src="https://www.thedailyworld.com/wp-content/uploads/2018/11/14247874_web1_TEASE-Belted-Kingfisher.jpg"></a>
+<a href="https://www.audubon.org/field-guide/bird/purple-gallinule"> 
+  <img src="https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcRocIP-UZOxTxtK9BBQnLMrln-GROtpM-EY0rq4eI18m2Q63A1akjwh3rYgtssfiErVqwT9WWUWAyrE1Ak"></a>
 
-With its top-heavy physique, energetic flight, and piercing rattle, the [Belted Kingfisher](https://www.audubon.org/field-guide/bird/belted-kingfisher) (Megaceryle alcyon) seems to have an air of self-importance as it patrols up and down rivers and shorelines. It nests in burrows along earthen banks and feeds almost entirely on aquatic prey, diving to catch fish and crayfish with its heavy, straight bill. These ragged-crested birds are a powdery blue-gray; males have one blue band across the white breast, while females have a blue and a chestnut band. Belted Kingfishers wander widely, sometimes showing up in the Galapagos Islands, Hawaii, the British Isles, the Azores, Iceland, Greenland, and the Netherlands.
+Lurking in the marshes of the extreme southeastern U.S. lives one of the most vividly colored birds in all of North America. [Purple Gallinule](https://www.audubon.org/field-guide/bird/purple-gallinule)  combine cherry red, sky blue, moss green, aquamarine, indigo, violet, and school-bus yellow, a color palette that blends surprisingly well with tropical and subtropical wetlands. Watch for these long-legged, long-toed birds stepping gingerly across water lilies and other floating vegetation as they hunt frogs and invertebrates or pick at tubers. 
 
 
 The Rules
